@@ -1,862 +1,1607 @@
 {
-  "kind": "youtube#searchListResponse",
-  "etag": "d7StcEbZPdr1QBoO_7M36j8Q4Mg",
-  "nextPageToken": "CBkQAA",
-  "regionCode": "US",
-  "pageInfo": {
-    "totalResults": 1000000,
-    "resultsPerPage": 25
-  },
+  "kind": "youtube#videoListResponse",
+  "etag": "ZFwiIi8tY5EHZ0HWX8N1c_ijnpA",
   "items": [
     {
-      "kind": "youtube#searchResult",
-      "etag": "FZL2R5CCLP75nS78ujF8rRtKULg",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "fSj-2o2ttAE"
-      },
+      "kind": "youtube#video",
+      "etag": "EEMo-AyrhLZ3C3MUow0c5jI2MVU",
+      "id": "wa7HpWw7DEk",
       "snippet": {
-        "publishedAt": "2024-07-23T10:41:01Z",
-        "channelId": "UCoicMEw3njXscfwHlaAJVcQ",
-        "title": "SURFING A DANGEROUS NEW WAVE! *SHALLOW REEF* (RAW POV)",
-        "description": "Join me as I surf a SKETCHY NEW Wave at a Novelty Spot! TIMESTAMPS 00:00 Teaser 00:10 GoPro Hero 12 Unboxing 00:43 ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/fSj-2o2ttAE/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/fSj-2o2ttAE/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/fSj-2o2ttAE/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Surfing With Noz",
-        "liveBroadcastContent": "none",
-        "publishTime": "2024-07-23T10:41:01Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "KMNcADxleuWQu5QecWrdxEtRjuQ",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "TyU4x9uxwHI"
-      },
-      "snippet": {
-        "publishedAt": "2024-07-18T13:30:11Z",
+        "publishedAt": "2024-07-27T02:28:48Z",
         "channelId": "UCqZQlzSHbVJrwrn5XvzrzcA",
-        "title": "Surfing&#39;s Olympic journey to Tahiti&#39;s breathtaking Teahupo&#39;o wave | NBC Sports",
-        "description": "Explore the dreams fueling surfers as they compete for a chance to surf at the coveted Teahupo'o venue in Tahiti during the Paris ...",
+        "title": "Beyonce introduces Team USA, from Simone Biles to Noah Lyles | Paris Olympics | NBC Sports",
+        "description": "Beyonce presents the athletes of Team USA in “Cowboy Carter” fashion ahead of the 2024 Paris Olympic Games. #NBCSports #Olympics #Paris2024 \n» Subscribe to NBC Sports: https://www.youtube.com/nbcsports?sub_confirmation=1\n» Live Olympic coverage on NBCOlympics.com: https://www.nbcolympics.com/schedule\n\nWatch the Paris Olympics on Peacock: https://smart.link/fs2ge7i8m3qlv\nVisit NBCOlympics.com,: https://www.nbcolympics.com\nDownload the NBC Olympics App: https://apps.apple.com/us/app/nbc-sports/id542511686\nFind NBC Olympics on Facebook: https://www.facebook.com/nbcolympics\nFollow NBC Olympics on X: https://www.x.com/NBCOlympics\nFollow NBC Olympics on Instagram: https://www.instagram.com/nbcolympics\nFind NBC Olympics on TikTok: https://www.tiktok.com/@nbcolympics\n\nBeyonce introduces Team USA, from Simone Biles to Noah Lyles | Paris Olympics | NBC Sports\nhttps://www.youtube.com/nbcsports",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/TyU4x9uxwHI/default.jpg",
+            "url": "https://i.ytimg.com/vi/wa7HpWw7DEk/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/TyU4x9uxwHI/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/wa7HpWw7DEk/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/TyU4x9uxwHI/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/wa7HpWw7DEk/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wa7HpWw7DEk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wa7HpWw7DEk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
         "channelTitle": "NBC Sports",
+        "tags": [
+          "olympics",
+          "nbc olympics",
+          "paris 2024",
+          "paris olympics",
+          "team usa",
+          "nbc sports",
+          "summer olympics",
+          "olympic highlights",
+          "olympic highlights today",
+          "olympics 2024",
+          "paris olympics 2024",
+          "2024 olympics",
+          "paris olympics 2024 live",
+          "olympics 2024 paris",
+          "beyonce",
+          "beyonce paris olympics",
+          "paris olympics beyonce",
+          "opening ceremony",
+          "beyonce olympics",
+          "beyonce paris olympics 2024",
+          "opening ceremony 2024 paris olympics",
+          "beyonce team usa",
+          "noah lyles",
+          "simone biles",
+          "katie ledecky",
+          "sha'carri richardson"
+        ],
+        "categoryId": "17",
         "liveBroadcastContent": "none",
-        "publishTime": "2024-07-18T13:30:11Z"
+        "localized": {
+          "title": "Beyonce introduces Team USA, from Simone Biles to Noah Lyles | Paris Olympics | NBC Sports",
+          "description": "Beyonce presents the athletes of Team USA in “Cowboy Carter” fashion ahead of the 2024 Paris Olympic Games. #NBCSports #Olympics #Paris2024 \n» Subscribe to NBC Sports: https://www.youtube.com/nbcsports?sub_confirmation=1\n» Live Olympic coverage on NBCOlympics.com: https://www.nbcolympics.com/schedule\n\nWatch the Paris Olympics on Peacock: https://smart.link/fs2ge7i8m3qlv\nVisit NBCOlympics.com,: https://www.nbcolympics.com\nDownload the NBC Olympics App: https://apps.apple.com/us/app/nbc-sports/id542511686\nFind NBC Olympics on Facebook: https://www.facebook.com/nbcolympics\nFollow NBC Olympics on X: https://www.x.com/NBCOlympics\nFollow NBC Olympics on Instagram: https://www.instagram.com/nbcolympics\nFind NBC Olympics on TikTok: https://www.tiktok.com/@nbcolympics\n\nBeyonce introduces Team USA, from Simone Biles to Noah Lyles | Paris Olympics | NBC Sports\nhttps://www.youtube.com/nbcsports"
+        },
+        "defaultAudioLanguage": "en"
       }
     },
     {
-      "kind": "youtube#searchResult",
-      "etag": "cGhuxKCm6wB29iUae88gs1YD1vY",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "hQZp02PRxCc"
-      },
+      "kind": "youtube#video",
+      "etag": "Hn0bs3bAvbNEe4MiNP3hWi4jEEw",
+      "id": "TL5zPys0ufk",
       "snippet": {
-        "publishedAt": "2024-07-22T23:38:16Z",
-        "channelId": "UC6uX6GF5q2JxLjMkyivM2Og",
-        "title": "THE 2024 OLYMPICS AT TEAHUPOO! MY PREDICTIONS, TOP PICKS, AND FORCAST",
-        "description": "https://sports.betonline.ag/sportsbook/futures-and-props/olympics-n-s/surfing-men YOUTUBE VIDS CONTINUE WEEKLY AS ...",
+        "publishedAt": "2024-07-27T14:00:01Z",
+        "channelId": "UCRijo3ddMTht_IHyNSNXpNQ",
+        "title": "Olympic Mini Games Battle",
+        "description": "Welcome to our 1st ever OLYMPIC MINI GAMES! Watch us battle it out for Gold in Olympic-themed challenges with a DP twist!\n\nSign up for Greenlight at http://greenlight.com/dudeperfect with promo code DPSWEEPS for a chance to come hang with us at our brand new HQ!\n\n► Thanks for subscribing! - http://bit.ly/SubDudePerfect\n\n\"Crazy\"\nPerformed by Beautiful Village x OTTO BLUE x Beacon Light\nCourtesy of Honestly Good Music\nWritten by Joshua Bronleewe and Brandon Clahassey\n© J Bronleewe Songs (SESAC) / IMG United Publishing (ASCAP)\n \n► Click HERE to Stream \"Crazy\" -  https://distrokid.com/hyperfollow/beautifulvillageottoblue/lets-get-crazy-feat-beacon-light\n► Click HERE to listen to Beacon Light on Spotify -  https://open.spotify.com/artist/2qAgO1fmg936BPG08NvxPk?si=-uGmR15MS0iBGu_lmHPigg\n► Click HERE to listen to Beacon Light on YouTube - https://www.youtube.com/beaconlightmusic\n► Click HERE to visit Beacon Light's Instagram Page - https://www.instagram.com/beaconmusic\n► Click HERE to visit OTTO BLUE's Instagram Page - https://www.instagram.com/ottoblueofficial \n\nA big shout out to Stonebriar Country Club for allowing us to film at their pool. If you want to learn more on how to become a member go to www.Stonebriar.com\n\nA huge thank you to the Prestonwood Baptist family for allowing us to use their facilities. Go to https://prestonwood.org/ If you want to learn more on how to get involved!\n\nA special thank you to Goodsurf for having us out and allowing us to surf their wave and facility (surfing, pickleball, food and drink)! If you want to learn more about them or plan your visit, check out http://goodsurf.co for info!\n\nNEXT LEVEL STUFF \n-------------------------------------------\n🎒 NEW Merch - http://bit.ly/DPStore\n📱 Text us - (469) 205-7005\n🔔 Hit the bell next to Subscribe so you don't miss a video!\n👨🏻‍💻 Watch our newest vids! - http://bit.ly/NewDPVids\n📕 Read our Book - \"101 Tips, Tricks and Cool Stuff\" - https://bit.ly/NewDPBook\n\nFollow our Instagrams so we can be best friends \n-------------------------------------------\n🏆 http://Instagram.com/DudePerfect\n🧔🏻 http://Instagram.com/TylerNToney\n👱🏻‍♂️ http://Instagram.com/Cody_Jones_\n🙋🏻‍♂️ http://Instagram.com/CobyCotton\n👨‍🦰 http://Instagram.com/GarrettHilbert\n⛹🏻‍♂️ http://Instagram.com/CoryCotton\n-------------------------------------------\nBonus points if you're still reading this! \nComment: Do you want to see Winter Mini Olympic Games in 2026?!\n\nClick here to learn more about Dude Perfect:\nhttp://bit.ly/AboutDudePerfect\n\nAs always...Go Big and God Bless!\n- Your friends at Dude Perfect\n\nBusiness or Media, please contact us at: \nDude@DudePerfect.com\n\n------------\nNo purchase or application necessary. Void where prohibited. Sweepstakes is open to legal residents of the 50 United States & DC who are 18 years of age or older as of the date of entry. You may enter by visiting www.greenlight.com starting 12:00 a.m. ET on 7/26/24 through 11:59 p.m. ET on 8/26/24. Odds of winning depend on the number of eligible entries received. For complete rules and alternate entry, visit www.dudeperfectsweeps.com. Sponsored by Dude Perfect, LLC, 15900 Gateway Drive, St. 300, Frisco, TX 75033.\n------------\n\n5 Best Friends and a Panda.\nIf you like Sports + Comedy, come join the Dude Perfect team!\n\nBest known for trick shots, stereotypes, battles, bottle flips, ping pong shots and all-around competitive fun, Dude Perfect prides ourselves in making the absolute best family-friendly entertainment possible! Welcome to the crew! \n\nPound it 👊🏻 Noggin 🙇🏻‍♂️ \n- Dude Perfect",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/hQZp02PRxCc/default.jpg",
+            "url": "https://i.ytimg.com/vi/TL5zPys0ufk/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/hQZp02PRxCc/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/TL5zPys0ufk/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/hQZp02PRxCc/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/TL5zPys0ufk/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TL5zPys0ufk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TL5zPys0ufk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
-        "channelTitle": "Nathan Florence",
+        "channelTitle": "Dude Perfect",
+        "tags": [
+          "dude perfect",
+          "dude perfect stereotypes",
+          "dude perfect water bottle flip",
+          "bottle flip",
+          "water bottle flip",
+          "dude perfect bottle flip",
+          "dude perfect basketball",
+          "dp",
+          "dude perfect world record",
+          "edition",
+          "nerf",
+          "trick shots",
+          "trick shot",
+          "family",
+          "ping pong",
+          "bowling",
+          "clean",
+          "family friendly",
+          "bubble wrap",
+          "soccer",
+          "football",
+          "spinner",
+          "spinners",
+          "fidget spinners",
+          "dude",
+          "olypmics",
+          "shot put",
+          "track and field",
+          "paris 2024",
+          "mini games",
+          "boxing",
+          "olympic games",
+          "olympics 2024"
+        ],
+        "categoryId": "17",
         "liveBroadcastContent": "none",
-        "publishTime": "2024-07-22T23:38:16Z"
+        "localized": {
+          "title": "Olympic Mini Games Battle",
+          "description": "Welcome to our 1st ever OLYMPIC MINI GAMES! Watch us battle it out for Gold in Olympic-themed challenges with a DP twist!\n\nSign up for Greenlight at http://greenlight.com/dudeperfect with promo code DPSWEEPS for a chance to come hang with us at our brand new HQ!\n\n► Thanks for subscribing! - http://bit.ly/SubDudePerfect\n\n\"Crazy\"\nPerformed by Beautiful Village x OTTO BLUE x Beacon Light\nCourtesy of Honestly Good Music\nWritten by Joshua Bronleewe and Brandon Clahassey\n© J Bronleewe Songs (SESAC) / IMG United Publishing (ASCAP)\n \n► Click HERE to Stream \"Crazy\" -  https://distrokid.com/hyperfollow/beautifulvillageottoblue/lets-get-crazy-feat-beacon-light\n► Click HERE to listen to Beacon Light on Spotify -  https://open.spotify.com/artist/2qAgO1fmg936BPG08NvxPk?si=-uGmR15MS0iBGu_lmHPigg\n► Click HERE to listen to Beacon Light on YouTube - https://www.youtube.com/beaconlightmusic\n► Click HERE to visit Beacon Light's Instagram Page - https://www.instagram.com/beaconmusic\n► Click HERE to visit OTTO BLUE's Instagram Page - https://www.instagram.com/ottoblueofficial \n\nA big shout out to Stonebriar Country Club for allowing us to film at their pool. If you want to learn more on how to become a member go to www.Stonebriar.com\n\nA huge thank you to the Prestonwood Baptist family for allowing us to use their facilities. Go to https://prestonwood.org/ If you want to learn more on how to get involved!\n\nA special thank you to Goodsurf for having us out and allowing us to surf their wave and facility (surfing, pickleball, food and drink)! If you want to learn more about them or plan your visit, check out http://goodsurf.co for info!\n\nNEXT LEVEL STUFF \n-------------------------------------------\n🎒 NEW Merch - http://bit.ly/DPStore\n📱 Text us - (469) 205-7005\n🔔 Hit the bell next to Subscribe so you don't miss a video!\n👨🏻‍💻 Watch our newest vids! - http://bit.ly/NewDPVids\n📕 Read our Book - \"101 Tips, Tricks and Cool Stuff\" - https://bit.ly/NewDPBook\n\nFollow our Instagrams so we can be best friends \n-------------------------------------------\n🏆 http://Instagram.com/DudePerfect\n🧔🏻 http://Instagram.com/TylerNToney\n👱🏻‍♂️ http://Instagram.com/Cody_Jones_\n🙋🏻‍♂️ http://Instagram.com/CobyCotton\n👨‍🦰 http://Instagram.com/GarrettHilbert\n⛹🏻‍♂️ http://Instagram.com/CoryCotton\n-------------------------------------------\nBonus points if you're still reading this! \nComment: Do you want to see Winter Mini Olympic Games in 2026?!\n\nClick here to learn more about Dude Perfect:\nhttp://bit.ly/AboutDudePerfect\n\nAs always...Go Big and God Bless!\n- Your friends at Dude Perfect\n\nBusiness or Media, please contact us at: \nDude@DudePerfect.com\n\n------------\nNo purchase or application necessary. Void where prohibited. Sweepstakes is open to legal residents of the 50 United States & DC who are 18 years of age or older as of the date of entry. You may enter by visiting www.greenlight.com starting 12:00 a.m. ET on 7/26/24 through 11:59 p.m. ET on 8/26/24. Odds of winning depend on the number of eligible entries received. For complete rules and alternate entry, visit www.dudeperfectsweeps.com. Sponsored by Dude Perfect, LLC, 15900 Gateway Drive, St. 300, Frisco, TX 75033.\n------------\n\n5 Best Friends and a Panda.\nIf you like Sports + Comedy, come join the Dude Perfect team!\n\nBest known for trick shots, stereotypes, battles, bottle flips, ping pong shots and all-around competitive fun, Dude Perfect prides ourselves in making the absolute best family-friendly entertainment possible! Welcome to the crew! \n\nPound it 👊🏻 Noggin 🙇🏻‍♂️ \n- Dude Perfect"
+        },
+        "defaultAudioLanguage": "en"
       }
     },
     {
-      "kind": "youtube#searchResult",
-      "etag": "tHrcKvP9iNojP372J2Tlb6jqW7I",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "1c-4NxXvH-g"
-      },
+      "kind": "youtube#video",
+      "etag": "y11ml5a3QVNBuMXMEvhnQyTgrk0",
+      "id": "a240KhNIL4Q",
       "snippet": {
-        "publishedAt": "2023-12-04T07:20:57Z",
-        "channelId": "UCjIuqG1hCxUdLLxOD_uR0vQ",
-        "title": "Pro Surfer Goes Down Hard! #pipeline  #surfing",
-        "description": "Pro surfer Joao Chianca from Brazil wipes out at Backdoor while surfing in Hawaii. Glad to report he is in stable condition.",
+        "publishedAt": "2024-07-27T01:33:37Z",
+        "channelId": "UCqZQlzSHbVJrwrn5XvzrzcA",
+        "title": "Lady Gaga's full performance at the Paris 2024 Olympics Opening Ceremony | NBC Sports",
+        "description": "Lady Gaga pulled out all the stops in a dazzling performance at the Opening Ceremony of the 2024 Paris Olympics. #NBCSports #Olympics #Paris2024 \n» Subscribe to NBC Sports: https://www.youtube.com/nbcsports?sub_confirmation=1\n» Live Olympic coverage on NBCOlympics.com: https://www.nbcolympics.com/schedule\n\nWatch the Paris Olympics on Peacock: https://smart.link/fs2ge7i8m3qlv\nVisit NBCOlympics.com,: https://www.nbcolympics.com\nDownload the NBC Olympics App: https://apps.apple.com/us/app/nbc-sports/id542511686\nFind NBC Olympics on Facebook: https://www.facebook.com/nbcolympics\nFollow NBC Olympics on X: https://www.x.com/NBCOlympics\nFollow NBC Olympics on Instagram: https://www.instagram.com/nbcolympics\nFind NBC Olympics on TikTok: https://www.tiktok.com/@nbcolympics\n\nLady Gaga's full performance at the Paris 2024 Olympics Opening Ceremony | NBC Sports\nhttps://www.youtube.com/nbcsports",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/1c-4NxXvH-g/default.jpg",
+            "url": "https://i.ytimg.com/vi/a240KhNIL4Q/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/1c-4NxXvH-g/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/a240KhNIL4Q/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/1c-4NxXvH-g/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/a240KhNIL4Q/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/a240KhNIL4Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/a240KhNIL4Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
-        "channelTitle": "Surfers of Hawaii",
+        "channelTitle": "NBC Sports",
+        "tags": [
+          "olympics",
+          "nbc olympics",
+          "paris 2024",
+          "paris olympics",
+          "team usa",
+          "nbc sports",
+          "summer olympics",
+          "olympic highlights",
+          "olympic highlights today",
+          "olympics 2024",
+          "paris olympics 2024",
+          "2024 olympics",
+          "paris olympics 2024 live",
+          "olympics 2024 paris",
+          "lady gaga",
+          "lady gaga paris olympics",
+          "paris olympics lady gaga",
+          "2024 paris olympics opening ceremony",
+          "opening ceremony",
+          "lady gaga olympic opening ceremony",
+          "lady gaga paris olympics 2024",
+          "opening ceremony 2024 paris olympics"
+        ],
+        "categoryId": "17",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-12-04T07:20:57Z"
+        "localized": {
+          "title": "Lady Gaga's full performance at the Paris 2024 Olympics Opening Ceremony | NBC Sports",
+          "description": "Lady Gaga pulled out all the stops in a dazzling performance at the Opening Ceremony of the 2024 Paris Olympics. #NBCSports #Olympics #Paris2024 \n» Subscribe to NBC Sports: https://www.youtube.com/nbcsports?sub_confirmation=1\n» Live Olympic coverage on NBCOlympics.com: https://www.nbcolympics.com/schedule\n\nWatch the Paris Olympics on Peacock: https://smart.link/fs2ge7i8m3qlv\nVisit NBCOlympics.com,: https://www.nbcolympics.com\nDownload the NBC Olympics App: https://apps.apple.com/us/app/nbc-sports/id542511686\nFind NBC Olympics on Facebook: https://www.facebook.com/nbcolympics\nFollow NBC Olympics on X: https://www.x.com/NBCOlympics\nFollow NBC Olympics on Instagram: https://www.instagram.com/nbcolympics\nFind NBC Olympics on TikTok: https://www.tiktok.com/@nbcolympics\n\nLady Gaga's full performance at the Paris 2024 Olympics Opening Ceremony | NBC Sports\nhttps://www.youtube.com/nbcsports"
+        },
+        "defaultAudioLanguage": "en"
       }
     },
     {
-      "kind": "youtube#searchResult",
-      "etag": "Los3lBzh0-NygzCDJ5h_3NRmQfM",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "rxHuxx-NUBE"
-      },
+      "kind": "youtube#video",
+      "etag": "t5rPSXayIKVp_l1j6G2XE3Bv-bA",
+      "id": "1iVV2wcCco0",
       "snippet": {
-        "publishedAt": "2024-06-29T08:00:29Z",
-        "channelId": "UCwZKI1KpD9sh54Gj3kc8imw",
-        "title": "day one of surf lessons with surf instructor alex",
-        "description": "TabithaswatoshShorts #foryou #fy #viral #foryoupage #foryou #fürdich.",
+        "publishedAt": "2024-07-27T01:30:02Z",
+        "channelId": "UCXDG9ue-emCN8Ad3h7lERqQ",
+        "title": "Celine Dion's SHOWSTOPPING PERFORMANCE during opening ceremony 👑 | Olympic Games #Paris2024",
+        "description": "SHE WILL ALWAYS BE AN ICON 👑\n\nCanadian powerhouse diva Celine Dion performs a showstopping rendition of \"Hymne à l’amour\" after the cauldron was lit to officially commence the Olympic Games Paris 2024!\n\n#Paris2024 \n\nSubscribe to One Sports channel! http://bit.ly/OneSportsPHL\n\nWebsite: https://www.onesports.ph/\nFacebook: https://www.facebook.com/OneSportsPHL\nX: https://x.com/OneSportsPHL\nInstagram: https://www.instagram.com/onesportsphl/\nTiktok: https://www.tiktok.com/@onesportsphl\nThreads: https://www.threads.net/@onesportsphl?hl=en",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/rxHuxx-NUBE/default.jpg",
+            "url": "https://i.ytimg.com/vi/1iVV2wcCco0/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/rxHuxx-NUBE/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/1iVV2wcCco0/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/rxHuxx-NUBE/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/1iVV2wcCco0/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1iVV2wcCco0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1iVV2wcCco0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
-        "channelTitle": "Tabithaswatosh Shorts",
+        "channelTitle": "One Sports",
+        "tags": [
+          "One Sports",
+          "paris olympics 2024",
+          "paris olympics 2024 opening ceremony",
+          "paris olympics 2024 live",
+          "paris olympics 2024 opening ceremony live",
+          "paris Olympics",
+          "paris olympics opening ceremony",
+          "paris olympics 2024 live stream",
+          "paris olympics 2024 Philippines",
+          "paris olympics 2024 basketball schedule",
+          "paris Olympics live",
+          "paris Olympics 2024 philippines",
+          "updates",
+          "Olympic games",
+          "parasabayan",
+          "100taonglaban",
+          "paris",
+          "2024",
+          "celine dion"
+        ],
+        "categoryId": "17",
         "liveBroadcastContent": "none",
-        "publishTime": "2024-06-29T08:00:29Z"
+        "localized": {
+          "title": "Celine Dion's SHOWSTOPPING PERFORMANCE during opening ceremony 👑 | Olympic Games #Paris2024",
+          "description": "SHE WILL ALWAYS BE AN ICON 👑\n\nCanadian powerhouse diva Celine Dion performs a showstopping rendition of \"Hymne à l’amour\" after the cauldron was lit to officially commence the Olympic Games Paris 2024!\n\n#Paris2024 \n\nSubscribe to One Sports channel! http://bit.ly/OneSportsPHL\n\nWebsite: https://www.onesports.ph/\nFacebook: https://www.facebook.com/OneSportsPHL\nX: https://x.com/OneSportsPHL\nInstagram: https://www.instagram.com/onesportsphl/\nTiktok: https://www.tiktok.com/@onesportsphl\nThreads: https://www.threads.net/@onesportsphl?hl=en"
+        }
       }
     },
     {
-      "kind": "youtube#searchResult",
-      "etag": "40FRuCWbe3VQrtYil1WrStbYu1E",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "lEsJ7A_lLU8"
-      },
+      "kind": "youtube#video",
+      "etag": "42Lz0bikaQIx2QHddXWfLKTzoUk",
+      "id": "e-E4Cpz33Zo",
       "snippet": {
-        "publishedAt": "2024-02-07T19:40:33Z",
-        "channelId": "UC0GbKJaeEN9k5CG1NLbN6Ow",
-        "title": "This Is Why You Don’t Surf After It Rains 🤢 #gross",
-        "description": "",
+        "publishedAt": "2024-07-26T23:24:52Z",
+        "channelId": "UCdtXPiqI2cLorKaPrfpKc4g",
+        "title": "Watch Céline Dion’s Stage Return for 2024 Paris Olympics With Lady Gaga",
+        "description": "Céline Dion performed for first time since revealing she has Stiff Person Syndrome at the 2024 Olympics.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/lEsJ7A_lLU8/default.jpg",
+            "url": "https://i.ytimg.com/vi/e-E4Cpz33Zo/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/lEsJ7A_lLU8/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/e-E4Cpz33Zo/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/lEsJ7A_lLU8/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/e-E4Cpz33Zo/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/e-E4Cpz33Zo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/e-E4Cpz33Zo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
-        "channelTitle": "IdkSterling",
+        "channelTitle": "Entertainment Tonight",
+        "tags": [
+          "ET Broadcast",
+          "Celine Dion",
+          "Lady Gaga",
+          "Snoop Dogg",
+          "Salma Hayek",
+          "Flavor Flav",
+          "Pharrell Williams",
+          "Colin Jost",
+          "Charlize Theron",
+          "Zendaya",
+          "Mick Jagger",
+          "Serena Williams",
+          "Zac Efron",
+          "Olympics"
+        ],
+        "categoryId": "24",
         "liveBroadcastContent": "none",
-        "publishTime": "2024-02-07T19:40:33Z"
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Watch Céline Dion’s Stage Return for 2024 Paris Olympics With Lady Gaga",
+          "description": "Céline Dion performed for first time since revealing she has Stiff Person Syndrome at the 2024 Olympics."
+        },
+        "defaultAudioLanguage": "en"
       }
     },
     {
-      "kind": "youtube#searchResult",
-      "etag": "i3OnAV8bCVoskXAi_6vjQXGXzlU",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "ma67yOdMQfs"
-      },
+      "kind": "youtube#video",
+      "etag": "-tMuQLjjdlSYp2rhtHWW5LLU-30",
+      "id": "_9prH7NFmLI",
       "snippet": {
-        "publishedAt": "2021-01-23T17:00:15Z",
-        "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
-        "title": "These Were The All-Time Surfing Moments Of The Year | Best Of 2020",
-        "description": "Well, that was a weird ride. Though it hasn't been easy, at least when we fixed our gaze on the ocean — or favorite place in the ...",
+        "publishedAt": "2024-07-26T18:14:38Z",
+        "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+        "title": "My FBI Declassified Story",
+        "description": "That time the FBI visited the studio...\n\nStorytime podcast episode coming soon: https://youtube.com/Waveform\n\nThe original Escobar phone video: https://youtu.be/O8FJSjy3bXA\n\nhttps://sifted.eu/articles/escobars-ceo-who-sued-klarna-for-millions-is-now-in-custody-for-fraud-news\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: http://youtube.com/MKBHD\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/ma67yOdMQfs/default.jpg",
+            "url": "https://i.ytimg.com/vi/_9prH7NFmLI/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/ma67yOdMQfs/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/_9prH7NFmLI/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/ma67yOdMQfs/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/_9prH7NFmLI/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_9prH7NFmLI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_9prH7NFmLI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
-        "channelTitle": "Red Bull Surfing",
+        "channelTitle": "Marques Brownlee",
+        "tags": ["FBI", "MKBHD", "Escobar", "Escobar phone"],
+        "categoryId": "28",
         "liveBroadcastContent": "none",
-        "publishTime": "2021-01-23T17:00:15Z"
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "My FBI Declassified Story",
+          "description": "That time the FBI visited the studio...\n\nStorytime podcast episode coming soon: https://youtube.com/Waveform\n\nThe original Escobar phone video: https://youtu.be/O8FJSjy3bXA\n\nhttps://sifted.eu/articles/escobars-ceo-who-sued-klarna-for-millions-is-now-in-custody-for-fraud-news\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: http://youtube.com/MKBHD\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD"
+        },
+        "defaultAudioLanguage": "en"
       }
     },
     {
-      "kind": "youtube#searchResult",
-      "etag": "rrI8dEdSaXrnVmb2eZfLoCaJCQw",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "bgmk7uVkgZA"
-      },
+      "kind": "youtube#video",
+      "etag": "4IoYjxtZClLor0nwJ547l4V9k78",
+      "id": "b6-JNeXxN3s",
       "snippet": {
-        "publishedAt": "2024-06-10T15:28:10Z",
-        "channelId": "UCSPWnWuVALjpQ0s2RL46Wzw",
-        "title": "does this shark repellent work surfing?",
-        "description": "",
+        "publishedAt": "2024-07-26T04:00:08Z",
+        "channelId": "UC2a9zmrdjvLsrRgi4G4blWw",
+        "title": "mgk & Jelly Roll - Lonely Road (Official Music Video)",
+        "description": "“Lonely Road” from mgk & Jelly Roll is available now: https://mgk.lnk.to/lonelyroad \n\nFollow mgk:\nhttp://twitter.com/machinegunkelly \nhttp://instagram.com/machinegunkelly \nhttps://tiktok.com/@machinegunkelly \nhttp://facebook.com/machinegunkelly \nhttp://MachineGunKelly.lnk.to/newsletter\nhttp://machinegunkelly.com\n\nFollow Jelly Roll: \nhttp://instagram.com/jellyroll615   \nhttp://facebook.com/therealjellyroll  \nhttp://twitter.com/jellyroll615  \nhttp://tiktok.com/@officialjellyroll  \nhttps://jellyroll615.com/\n\nDirected by: Sam Cahill\n\nLyrics: \nLonely road \ntake me home\nTake me home, \nlonely road\n \nI’ma go downtown\nAin't been in a long time\nI’m taking back Sundays\nSince you took away my life\nThere’s some things that I know now\nCouple songs that I'd rewrite\nStart over like Mondays\nPouring strong on a weeknight\nSee I hear the devil wears Prada but I couldn’t read the tags\nAnd your horns started showing when I seen you mad\nBut I’ll wait for you\nCause this is not the face I knew\nI probably could’ve saved us but instead I let us crash\nCause I don’t trust no one to love me back\nBut she say I do\nAnd this is not the place for you\n \nLonely road take me home\nTo the place where we went wrong\nWhere'd you go now\nIt's been a ghost town\nAnd I'm still here\nAll alone\n \nWhen the days feel long\nAnd the nights get cold\nAnd I’m thousands of miles away\nI use alcohol just to fill that hole\nWill our home ever be the same\nI hear the devil wears Prada but I couldn’t read the tags\nAnd your horns started showing when I seen you mad\nBut I’ll wait for you \ncause this is not the face I knew\nAnd I probably could’ve saved us but instead I let us crash\nCause I don’t trust no one to love me back\nBut you say I do\nAnd this is not the place for you\n \nLonely road take me home\nTo the place that we went wrong\nWhere'd you go now\nIt's been a ghost town\nAnd I'm still here\nAll alone\n \nAnd if you could salvage my soul\nWould you sacrifice this life to not die alone\nCause even a palace ain’t home without you\nSo I might leave here soon but I want to leave you this song\n(Hey)\nLonely road (lonely road) \ntake me home (won’t you take me home)\nTo the place (to the place) \nwhere we went wrong\nWhere'd you go now (where’d you go now)\nIt's been a ghost town\nAnd I'm still here (I’m still here)\nAll alone\nThis lonely road\nI’m on this road now (this lonely road)\nFeeling so alone\nTake me home (this lonely road)\nI’m on this road now (this lonely road)\nFeeling so alone\nTake me home\n\n#mgk #jellyroll #lonelyroad\n\nMusic video by mgk, Jelly Roll performing Lonely Road. © 2024 EST 19XX, LLC, under exclusive license to Interscope Records\n\nhttp://vevo.ly/tx5TlD",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/bgmk7uVkgZA/default.jpg",
+            "url": "https://i.ytimg.com/vi/b6-JNeXxN3s/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/bgmk7uVkgZA/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/b6-JNeXxN3s/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/bgmk7uVkgZA/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/b6-JNeXxN3s/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/b6-JNeXxN3s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/b6-JNeXxN3s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
-        "channelTitle": "jade darmawangsa",
+        "channelTitle": "MGKVEVO",
+        "tags": [
+          "Mgk",
+          "machine",
+          "gun",
+          "kelly",
+          "jelly",
+          "roll",
+          "lonely",
+          "road",
+          "take",
+          "home",
+          "country",
+          "roads",
+          "mgk",
+          "cover",
+          "sun",
+          "rough",
+          "2024",
+          "pop",
+          "new",
+          "music",
+          "lyrics",
+          "megan",
+          "fox",
+          "bunnie",
+          "sam",
+          "cahill",
+          "colson",
+          "baker",
+          "official",
+          "video"
+        ],
+        "categoryId": "10",
         "liveBroadcastContent": "none",
-        "publishTime": "2024-06-10T15:28:10Z"
+        "localized": {
+          "title": "mgk & Jelly Roll - Lonely Road (Official Music Video)",
+          "description": "“Lonely Road” from mgk & Jelly Roll is available now: https://mgk.lnk.to/lonelyroad \n\nFollow mgk:\nhttp://twitter.com/machinegunkelly \nhttp://instagram.com/machinegunkelly \nhttps://tiktok.com/@machinegunkelly \nhttp://facebook.com/machinegunkelly \nhttp://MachineGunKelly.lnk.to/newsletter\nhttp://machinegunkelly.com\n\nFollow Jelly Roll: \nhttp://instagram.com/jellyroll615   \nhttp://facebook.com/therealjellyroll  \nhttp://twitter.com/jellyroll615  \nhttp://tiktok.com/@officialjellyroll  \nhttps://jellyroll615.com/\n\nDirected by: Sam Cahill\n\nLyrics: \nLonely road \ntake me home\nTake me home, \nlonely road\n \nI’ma go downtown\nAin't been in a long time\nI’m taking back Sundays\nSince you took away my life\nThere’s some things that I know now\nCouple songs that I'd rewrite\nStart over like Mondays\nPouring strong on a weeknight\nSee I hear the devil wears Prada but I couldn’t read the tags\nAnd your horns started showing when I seen you mad\nBut I’ll wait for you\nCause this is not the face I knew\nI probably could’ve saved us but instead I let us crash\nCause I don’t trust no one to love me back\nBut she say I do\nAnd this is not the place for you\n \nLonely road take me home\nTo the place where we went wrong\nWhere'd you go now\nIt's been a ghost town\nAnd I'm still here\nAll alone\n \nWhen the days feel long\nAnd the nights get cold\nAnd I’m thousands of miles away\nI use alcohol just to fill that hole\nWill our home ever be the same\nI hear the devil wears Prada but I couldn’t read the tags\nAnd your horns started showing when I seen you mad\nBut I’ll wait for you \ncause this is not the face I knew\nAnd I probably could’ve saved us but instead I let us crash\nCause I don’t trust no one to love me back\nBut you say I do\nAnd this is not the place for you\n \nLonely road take me home\nTo the place that we went wrong\nWhere'd you go now\nIt's been a ghost town\nAnd I'm still here\nAll alone\n \nAnd if you could salvage my soul\nWould you sacrifice this life to not die alone\nCause even a palace ain’t home without you\nSo I might leave here soon but I want to leave you this song\n(Hey)\nLonely road (lonely road) \ntake me home (won’t you take me home)\nTo the place (to the place) \nwhere we went wrong\nWhere'd you go now (where’d you go now)\nIt's been a ghost town\nAnd I'm still here (I’m still here)\nAll alone\nThis lonely road\nI’m on this road now (this lonely road)\nFeeling so alone\nTake me home (this lonely road)\nI’m on this road now (this lonely road)\nFeeling so alone\nTake me home\n\n#mgk #jellyroll #lonelyroad\n\nMusic video by mgk, Jelly Roll performing Lonely Road. © 2024 EST 19XX, LLC, under exclusive license to Interscope Records\n\nhttp://vevo.ly/tx5TlD"
+        },
+        "defaultAudioLanguage": "en"
       }
     },
     {
-      "kind": "youtube#searchResult",
-      "etag": "-StopV9fPrcl_PWIs-lZUO9nx4M",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "QB8GMebrFXg"
-      },
+      "kind": "youtube#video",
+      "etag": "xgADL-AJZ-ZS-gvNhFTZbYmGc04",
+      "id": "FjFPy3N2tV4",
       "snippet": {
-        "publishedAt": "2023-03-04T18:00:11Z",
-        "channelId": "UCJBWZDkunrjWh50Etxdys2g",
-        "title": "Big wave surfers in Southern California #shorts",
-        "description": "",
+        "publishedAt": "2024-07-26T03:59:06Z",
+        "channelId": "UCtylTUUVIGY_i5afsQYeBZA",
+        "title": "Lil Yachty & Ian - Hate Me (Official Music Video)",
+        "description": "Lyrical Lemonade Presents:\nLil Yachty & Ian - Hate Me (Official Music Video)\n\nWatch the Behind the Scenes here: https://youtu.be/dkybau0rat8\n\nDirected by AMD\n\nSong Produced by ChildBoy\n\nCreative Director + Executive Producer: Cole Bennett  \nDirector of Photography: Franklin Ricart\nCo-Executive Producer: Jake Millan\nHead of Production: Krista Worby\nProducer: Joseph Rocha \nVFX Supervisor: Ryan Dylan Selkirk\nVFX by Side-Eye\nColor Grade: Josh Bohoskey\nEdited by AMD\nTitles by Daniel Keogh \nStylist: Little Miles\n\n1st AC: Manny Rodriguez \n2nd AC:Percio Luciano \nGaffer: David Reichman \nKey Grip: Vinny Davino\nBTS: Nicolas Johnson\nProduction Assistant: Chancey Bridges\n\nSpecial thanks to VSNY Films and Handheld Films\n\n--\n\nOfficial Channel of Lyrical Lemonade \n\nSubscribe to Lyrical Lemonade on YouTube: https://www.youtube.com/@lyricalemonade\n\nLyrical Lemonade Socials:\n\nhttps://www.instagram.com/lyricalemonade/\nhttps://www.instagram.com/lyricalemonadetwo/\nhttps://www.instagram.com/drinklyrical/\nhttps://www.instagram.com/thesummersmash\nhttps://twitter.com/LyricaLemonade\nhttps://twitter.com/thesummersmash\nhttp://www.facebook.com/lyricalemonade\nhttps://www.tiktok.com/@lyricalemonade?lang=en\n\nAMD Socials:\n\nhttp://www.instagram.com/amdvisuals\nhttp://www.twitter.com/amdvisuals",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/QB8GMebrFXg/default.jpg",
+            "url": "https://i.ytimg.com/vi/FjFPy3N2tV4/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/QB8GMebrFXg/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/FjFPy3N2tV4/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/QB8GMebrFXg/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/FjFPy3N2tV4/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FjFPy3N2tV4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FjFPy3N2tV4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
-        "channelTitle": "SoCal Surfer",
+        "channelTitle": "Lyrical Lemonade",
+        "tags": [
+          "ian",
+          "ian ferguson",
+          "ian smith",
+          "lil yachty",
+          "lil boat",
+          "boat",
+          "ian lil yachty",
+          "iannnnnnnnnn",
+          "ian yachty music video",
+          "amd visuals music video",
+          "white cyc music video",
+          "probe lens",
+          "rap music video",
+          "kai cenat",
+          "kai cenat lil yachty ian"
+        ],
+        "categoryId": "24",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-03-04T18:00:11Z"
+        "localized": {
+          "title": "Lil Yachty & Ian - Hate Me (Official Music Video)",
+          "description": "Lyrical Lemonade Presents:\nLil Yachty & Ian - Hate Me (Official Music Video)\n\nWatch the Behind the Scenes here: https://youtu.be/dkybau0rat8\n\nDirected by AMD\n\nSong Produced by ChildBoy\n\nCreative Director + Executive Producer: Cole Bennett  \nDirector of Photography: Franklin Ricart\nCo-Executive Producer: Jake Millan\nHead of Production: Krista Worby\nProducer: Joseph Rocha \nVFX Supervisor: Ryan Dylan Selkirk\nVFX by Side-Eye\nColor Grade: Josh Bohoskey\nEdited by AMD\nTitles by Daniel Keogh \nStylist: Little Miles\n\n1st AC: Manny Rodriguez \n2nd AC:Percio Luciano \nGaffer: David Reichman \nKey Grip: Vinny Davino\nBTS: Nicolas Johnson\nProduction Assistant: Chancey Bridges\n\nSpecial thanks to VSNY Films and Handheld Films\n\n--\n\nOfficial Channel of Lyrical Lemonade \n\nSubscribe to Lyrical Lemonade on YouTube: https://www.youtube.com/@lyricalemonade\n\nLyrical Lemonade Socials:\n\nhttps://www.instagram.com/lyricalemonade/\nhttps://www.instagram.com/lyricalemonadetwo/\nhttps://www.instagram.com/drinklyrical/\nhttps://www.instagram.com/thesummersmash\nhttps://twitter.com/LyricaLemonade\nhttps://twitter.com/thesummersmash\nhttp://www.facebook.com/lyricalemonade\nhttps://www.tiktok.com/@lyricalemonade?lang=en\n\nAMD Socials:\n\nhttp://www.instagram.com/amdvisuals\nhttp://www.twitter.com/amdvisuals"
+        },
+        "defaultAudioLanguage": "en-US"
       }
     },
     {
-      "kind": "youtube#searchResult",
-      "etag": "mS1VI3rRX40OvPgc0aHgqtHlu2s",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "WR4MWzADmcM"
-      },
+      "kind": "youtube#video",
+      "etag": "bt7kV8aWSN4nk12awlRYnwpN4Dc",
+      "id": "DLEL6i0YmkY",
       "snippet": {
-        "publishedAt": "2023-06-12T19:12:48Z",
-        "channelId": "UCyfKBloDWLyv4lHewP_cbpA",
-        "title": "Super Young Surfer | THE CHOSEN ONE!!!! #podcast #sterlingspencer",
-        "description": "",
+        "publishedAt": "2024-07-25T15:00:16Z",
+        "channelId": "UCPD_bxCRGpmmeQcbe2kpPaA",
+        "title": "Ryan Reynolds and Hugh Jackman Go Claws Out While Eating Spicy Wings | Hot Ones",
+        "description": "Ryan Reynolds and Hugh Jackman are the stars of Deadpool & Wolverine, perhaps 2024's most anticipated film. Bringing together these iconic characters and rivals has been years in the making, but the wait is finally over as Deadpool & Wolverine opens in theaters nationwide on July 26th. But how are they with spicy food? Find out as the two box-office titans take on the wings of death and discuss superhero costumes, Marvel leaks, and the depths of their beautiful bromance. \n\nBUY HOT ONES HOT SAUCE NOW: https://fwfea.st/hotsauces\n\nTRY THE HOT ONES BONELESS CHICKEN BITE CHALLENGE: https://fwfea.st/chickenbites\n\nBUY HOT ONES TRUTH OR DAB: THE GAME: http://truthordabgame.com\n\nSIGN UP FOR THE HOT ONES MONTHLY HOT SAUCE SUBSCRIPTION: https://bit.ly/2veY50P\n\nSIGN UP FOR THE FIRST WE FEAST NEWSLETTER: http://firstwefeast.com/signup\n\nSUBSCRIBE TO FIRST WE FEAST ON YOUTUBE: http://goo.gl/UxFzhK\n\nMAKE A DIFFERENCE BY DONATING TO COMMON THREADS, THE OFFICIAL  CHARITY PARTNER OF HOT ONES: https://www.commonthreads.org/firstwefeast/\n\nCheck out more of First We Feast here:\n\nhttp://firstwefeast.com/\nhttp://instagram.com/firstwefeast\nhttp://instagram.com/hotones/\nhttps://twitter.com/firstwefeast\nhttps://www.facebook.com/FirstWeFeast",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/WR4MWzADmcM/default.jpg",
+            "url": "https://i.ytimg.com/vi/DLEL6i0YmkY/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/WR4MWzADmcM/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/DLEL6i0YmkY/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/WR4MWzADmcM/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/DLEL6i0YmkY/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DLEL6i0YmkY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DLEL6i0YmkY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
-        "channelTitle": "STERLING SPENCER",
+        "channelTitle": "First We Feast",
+        "tags": [
+          "First we feast",
+          "fwf",
+          "firstwefeast",
+          "food",
+          "food porn",
+          "cook",
+          "cooking",
+          "chef",
+          "recipe",
+          "cocktail",
+          "bartender",
+          "craft beer",
+          "complex",
+          "complex networks",
+          "spicy food",
+          "foodie",
+          "burgers",
+          "food documentary",
+          "hot ones",
+          "hot wings",
+          "RYAN REYNOLDS",
+          "HUGH JACKMAN",
+          "deadpool",
+          "wolverine",
+          "deadpool & wolverine",
+          "lady deadpool",
+          "miss minutes",
+          "loki",
+          "mobius",
+          "owen wilson",
+          "tom hiddleston",
+          "b15",
+          "disney",
+          "marvel",
+          "mcu",
+          "phase 5",
+          "phase 6",
+          "hall h",
+          "kevin feige",
+          "sdcc",
+          "san Diego comic con",
+          "logan",
+          "x men",
+          "xmen",
+          "x2",
+          "taylor swift",
+          "blake lively"
+        ],
+        "categoryId": "24",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-06-12T19:12:48Z"
+        "localized": {
+          "title": "Ryan Reynolds and Hugh Jackman Go Claws Out While Eating Spicy Wings | Hot Ones",
+          "description": "Ryan Reynolds and Hugh Jackman are the stars of Deadpool & Wolverine, perhaps 2024's most anticipated film. Bringing together these iconic characters and rivals has been years in the making, but the wait is finally over as Deadpool & Wolverine opens in theaters nationwide on July 26th. But how are they with spicy food? Find out as the two box-office titans take on the wings of death and discuss superhero costumes, Marvel leaks, and the depths of their beautiful bromance. \n\nBUY HOT ONES HOT SAUCE NOW: https://fwfea.st/hotsauces\n\nTRY THE HOT ONES BONELESS CHICKEN BITE CHALLENGE: https://fwfea.st/chickenbites\n\nBUY HOT ONES TRUTH OR DAB: THE GAME: http://truthordabgame.com\n\nSIGN UP FOR THE HOT ONES MONTHLY HOT SAUCE SUBSCRIPTION: https://bit.ly/2veY50P\n\nSIGN UP FOR THE FIRST WE FEAST NEWSLETTER: http://firstwefeast.com/signup\n\nSUBSCRIBE TO FIRST WE FEAST ON YOUTUBE: http://goo.gl/UxFzhK\n\nMAKE A DIFFERENCE BY DONATING TO COMMON THREADS, THE OFFICIAL  CHARITY PARTNER OF HOT ONES: https://www.commonthreads.org/firstwefeast/\n\nCheck out more of First We Feast here:\n\nhttp://firstwefeast.com/\nhttp://instagram.com/firstwefeast\nhttp://instagram.com/hotones/\nhttps://twitter.com/firstwefeast\nhttps://www.facebook.com/FirstWeFeast"
+        },
+        "defaultAudioLanguage": "en"
       }
     },
     {
-      "kind": "youtube#searchResult",
-      "etag": "YcvUe3UtKL3ad5x_FjzUBJMIjPw",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "FI5jDFG91oI"
-      },
+      "kind": "youtube#video",
+      "etag": "0gAoYetvjxCZSrTdAMjp-OdPNOc",
+      "id": "9SuP4581LTA",
       "snippet": {
-        "publishedAt": "2018-08-16T15:03:04Z",
-        "channelId": "UC486Caf5KYN0yj_ndNr6J9w",
-        "title": "Brazilian Surfer Rodrigo Koxa Breaks World Record For Biggest Wave Ever Surfed",
-        "description": "Brazilian Surfer Rodrigo Koxa Breaks World Record For Biggest Wave Ever Surfed Thanks For watching This Video and Don't ...",
+        "publishedAt": "2024-07-26T16:00:06Z",
+        "channelId": "UCCdbL-yl7Qa_vurbYWdn5SA",
+        "title": "Ice Spice, Travis Scott - Oh Shhh...",
+        "description": "Stream // Download Ice Spice debut album here: https://icespice.lnk.to/Y2K \n\nShop Y2K Merch At:  \nhttps://shop.icespicemerch.com\n\n\nMusic video by Ice Spice, Travis Scott performing Oh Shhh.... © 2024 Dolo Entertainment, Inc., under exclusive license to UMG Recordings, Inc. & 10K Projects, LLC.\n\nhttp://vevo.ly/LepVNK",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/FI5jDFG91oI/default.jpg",
+            "url": "https://i.ytimg.com/vi/9SuP4581LTA/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/FI5jDFG91oI/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/9SuP4581LTA/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/FI5jDFG91oI/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/9SuP4581LTA/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9SuP4581LTA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9SuP4581LTA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
-        "channelTitle": "You Will Like It",
+        "channelTitle": "IceSpiceVEVO",
+        "tags": [
+          "Ice",
+          "Spice",
+          "Travis",
+          "Scott",
+          "Shhh...",
+          "10K",
+          "Projects/Capitol",
+          "Records",
+          "Hip",
+          "Hop"
+        ],
+        "categoryId": "10",
         "liveBroadcastContent": "none",
-        "publishTime": "2018-08-16T15:03:04Z"
+        "localized": {
+          "title": "Ice Spice, Travis Scott - Oh Shhh...",
+          "description": "Stream // Download Ice Spice debut album here: https://icespice.lnk.to/Y2K \n\nShop Y2K Merch At:  \nhttps://shop.icespicemerch.com\n\n\nMusic video by Ice Spice, Travis Scott performing Oh Shhh.... © 2024 Dolo Entertainment, Inc., under exclusive license to UMG Recordings, Inc. & 10K Projects, LLC.\n\nhttp://vevo.ly/LepVNK"
+        }
       }
     },
     {
-      "kind": "youtube#searchResult",
-      "etag": "ebm4MTININhR0OBKVi3yRshXDpI",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "ALRoebu0Rgs"
-      },
+      "kind": "youtube#video",
+      "etag": "QoSjcwhSEMTqd1oSW-hHU48vyuA",
+      "id": "b1aBzAE-IFY",
       "snippet": {
-        "publishedAt": "2022-10-08T08:02:51Z",
-        "channelId": "UCgrzEQkzzbWl6Sx_8DD1jiQ",
-        "title": "What happened when I fall #surf #surfing #athlete #waves #surfers #skate #wsl #fit",
-        "description": "",
+        "publishedAt": "2024-07-26T14:00:07Z",
+        "channelId": "UCOhtMAg7xh8wv_wUHMgFc-Q",
+        "title": "Post Malone ft. Luke Combs - Guy For That (Official Music Video)",
+        "description": "Official “Guy For That” music video by Post Malone featuring Luke Combs. Get the song here: https://posty.lnk.to/guyforthatYD\n\n►Subscribe for more: https://postmalone.lnk.to/subscribeYD\n\n►Shop exclusive merch: https://postmalone.lnk.to/shop\n\n►Follow Post Malone online:\nhttps://www.postmalone.com\nhttps://instagram.com/postmalone\nhttps://twitter.com/postmalone\nhttps://facebook.com/postmalone\nhttps://snapchat.com/add/postmalone\nhttps://tiktok.com/@postmalone\nhttps://discord.gg/post-malone\n\n►Lyrics:\n \n(Verse 1) \nI got a guy designin’ my rifle \nMy mama’s new boyfriend re-binds bibles \nRicky down the road he re-souls red wings, hell \nI got a guy for every damn thing \nOh, that ain’t exactly what I’m lookin’ for \nCuz I’m lookin’ for \n \n(Hook) \nSomeone to put her tires back into drive \nAnd if they don’t, then I just might \nLose what’s left of my never lovin’ mind \nI’m damn near down, to my last dime \nI’m pretty good at breakin’ down a heart \nBut pickin’ up the pieces is the hard part \nShe’s searchin’ for someone who’s gonna build it back \nBut I ain’t got a guy for that \n \n(Post Hook) \nAin’t got a guy for that \nAin’t got a guy for that \nAin’t got a guy for that \n \n(Verse 2) (Luke) \nKnow V.I.P. up at M.I.T. \nAnd he still won’t let me fly the time machine \nSomeone to turn back the hands on my new A.P. \nBut buddy what I really need \n \n(Hook) \nIs someone to put her tires back into drive \nAnd if they don’t, then I just might \nLose what’s left of my never lovin’ mind \nI’m damn near down, to my last dime \nI’m pretty good at breakin’ down a heart \nBut pickin’ up the pieces is the hard part \nShe’s searchin’ for someone who’s gonna build it back \nBut I ain’t got a guy for that \n \n(Post Hook) \nAin’t got a guy for that \nAin’t got a guy for that \nAin’t got a guy \nI ain’t got a guy for that\n\nDirector: Chris Villa\nCreative Direction Chris Villa, Lachlan McClellan, Bobby Greenleaf\nProduction Company: SHOTCLOCK\nExecutive Producer Harrison Corwin\nProducer Dylan Underhill\nSpecial Thanks: The City of Nashville, The Broadway Historic District, Honkey Tonk Central, Acme Feed & Seed\n\n#postmalone #lukecombs #guyforthat\n\n\nMusic video by Post Malone performing Guy For That. © 2024 Mercury Records / Republic Records, a division of UMG Recordings, Inc.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/ALRoebu0Rgs/default.jpg",
+            "url": "https://i.ytimg.com/vi/b1aBzAE-IFY/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/ALRoebu0Rgs/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/b1aBzAE-IFY/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/ALRoebu0Rgs/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/b1aBzAE-IFY/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/b1aBzAE-IFY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/b1aBzAE-IFY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
-        "channelTitle": "Jake Abel",
+        "channelTitle": "PostMaloneVEVO",
+        "tags": [
+          "post malone",
+          "guy for that",
+          "got guy for that",
+          "luke combs",
+          "post malone luke combs",
+          "post malone guy for that",
+          "luke combs guy for that",
+          "guy for that post malone luke combs",
+          "posty guy for that",
+          "posty"
+        ],
+        "categoryId": "10",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-10-08T08:02:51Z"
+        "localized": {
+          "title": "Post Malone ft. Luke Combs - Guy For That (Official Music Video)",
+          "description": "Official “Guy For That” music video by Post Malone featuring Luke Combs. Get the song here: https://posty.lnk.to/guyforthatYD\n\n►Subscribe for more: https://postmalone.lnk.to/subscribeYD\n\n►Shop exclusive merch: https://postmalone.lnk.to/shop\n\n►Follow Post Malone online:\nhttps://www.postmalone.com\nhttps://instagram.com/postmalone\nhttps://twitter.com/postmalone\nhttps://facebook.com/postmalone\nhttps://snapchat.com/add/postmalone\nhttps://tiktok.com/@postmalone\nhttps://discord.gg/post-malone\n\n►Lyrics:\n \n(Verse 1) \nI got a guy designin’ my rifle \nMy mama’s new boyfriend re-binds bibles \nRicky down the road he re-souls red wings, hell \nI got a guy for every damn thing \nOh, that ain’t exactly what I’m lookin’ for \nCuz I’m lookin’ for \n \n(Hook) \nSomeone to put her tires back into drive \nAnd if they don’t, then I just might \nLose what’s left of my never lovin’ mind \nI’m damn near down, to my last dime \nI’m pretty good at breakin’ down a heart \nBut pickin’ up the pieces is the hard part \nShe’s searchin’ for someone who’s gonna build it back \nBut I ain’t got a guy for that \n \n(Post Hook) \nAin’t got a guy for that \nAin’t got a guy for that \nAin’t got a guy for that \n \n(Verse 2) (Luke) \nKnow V.I.P. up at M.I.T. \nAnd he still won’t let me fly the time machine \nSomeone to turn back the hands on my new A.P. \nBut buddy what I really need \n \n(Hook) \nIs someone to put her tires back into drive \nAnd if they don’t, then I just might \nLose what’s left of my never lovin’ mind \nI’m damn near down, to my last dime \nI’m pretty good at breakin’ down a heart \nBut pickin’ up the pieces is the hard part \nShe’s searchin’ for someone who’s gonna build it back \nBut I ain’t got a guy for that \n \n(Post Hook) \nAin’t got a guy for that \nAin’t got a guy for that \nAin’t got a guy \nI ain’t got a guy for that\n\nDirector: Chris Villa\nCreative Direction Chris Villa, Lachlan McClellan, Bobby Greenleaf\nProduction Company: SHOTCLOCK\nExecutive Producer Harrison Corwin\nProducer Dylan Underhill\nSpecial Thanks: The City of Nashville, The Broadway Historic District, Honkey Tonk Central, Acme Feed & Seed\n\n#postmalone #lukecombs #guyforthat\n\n\nMusic video by Post Malone performing Guy For That. © 2024 Mercury Records / Republic Records, a division of UMG Recordings, Inc."
+        }
       }
     },
     {
-      "kind": "youtube#searchResult",
-      "etag": "_CM8d_eNGwdu5VqCn3of5zQiYqc",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "0hM7jmiwGz8"
-      },
+      "kind": "youtube#video",
+      "etag": "_u8ZV6irku6ua-GKOKV9WVyQzIc",
+      "id": "zUtTpuqV55U",
       "snippet": {
-        "publishedAt": "2023-02-14T20:30:00Z",
-        "channelId": "UCvOh9i-BOFzu51rpj33fGag",
-        "title": "Isn&#39;t this the dreamiest looking wave? #shorts",
-        "description": "Want to learn how to surf with us? Get free unlimited access : https://tutorials.barefootsurftravel.com/signupform/ Discover our free ...",
+        "publishedAt": "2024-07-26T14:00:07Z",
+        "channelId": "UCm3FgJ2Hqm7tb70T-GfwXVA",
+        "title": "Halsey - Lucky (Official Video)",
+        "description": "Music video by Halsey performing Lucky (Official Video). (P) 2024 Columbia Records, a Division of Sony Music Entertainment, under exclusive license from Anti-Pop, LLC\n\nhttp://vevo.ly/wqK7YG",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/0hM7jmiwGz8/default.jpg",
+            "url": "https://i.ytimg.com/vi/zUtTpuqV55U/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/0hM7jmiwGz8/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/zUtTpuqV55U/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/0hM7jmiwGz8/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/zUtTpuqV55U/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zUtTpuqV55U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zUtTpuqV55U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
-        "channelTitle": "Barefoot Surf",
+        "channelTitle": "HalseyVEVO",
+        "tags": ["Halsey", "Lucky"],
+        "categoryId": "10",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-02-14T20:30:00Z"
+        "localized": {
+          "title": "Halsey - Lucky (Official Video)",
+          "description": "Music video by Halsey performing Lucky (Official Video). (P) 2024 Columbia Records, a Division of Sony Music Entertainment, under exclusive license from Anti-Pop, LLC\n\nhttp://vevo.ly/wqK7YG"
+        },
+        "defaultAudioLanguage": "en"
       }
     },
     {
-      "kind": "youtube#searchResult",
-      "etag": "uiGQELzaV6hBGj5YOR7Lg4mdcLs",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "iFEoxjcBREg"
-      },
+      "kind": "youtube#video",
+      "etag": "6ga-AAoiaw214VgXwaone0pr9Ts",
+      "id": "KQFMB-Mf1LA",
       "snippet": {
-        "publishedAt": "2023-09-03T18:00:24Z",
-        "channelId": "UCo_q6aOlvPH7M-j_XGWVgXg",
-        "title": "WEIRDEST WAVES EVER?!",
-        "description": "",
+        "publishedAt": "2024-07-27T15:00:17Z",
+        "channelId": "UC4ijq8Cg-8zQKx8OH12dUSw",
+        "title": "Back to Van Life + a big announcement!",
+        "description": "We’re back in our van for the summer!! In this episode, we move back into our tiny home, get a health update from my neurologist, & have a huge announcement at the end!! ;) Thanks LMNT for sponsoring this video! Get your free LMNT Sample Pack with any purchase at https://DrinkLMNT.com/KaraandNate Also try the new LMNT Sparkling-a bold, 16-ounce can of sparkling electrolyte water :)\n\n✈️ FareDrop Summer Sale is BACK! ☀️ Get 50% off FareDrop if you sign up here:  https://faredrop.app/yt_kn-summer24\nPLUS you'll receive a FareDrop goodie bag, AND you'll be entered to win a free all inclusive trip to the Dominican Republic! 😍\n\nEpisode 934 | Filmed July 2024 | Nashville - Dallas - Leadville, CO\n\n✈️ Daily Drop is our *FREE travel newsletter!* Get all the best travel news, tips, and tricks every weekday in your inbox by subscribing here ➡️\nhttps://faredrop.app/ytd_220827 \n\n📸 Get behind the scenes content on our Instagram! @karaandnate\nhttps://www.instagram.com/karaandnate/ \n\n📧 Read our Sunday Summary email to know what goes on between videos -\nhttps://karaandnate.com/sunday-summary/ \n\n🎶 Here’s where we got all of our copyright free songs used in this episode -\nhttp://bit.ly/epidemic_sound\n\n——————————————————\n\nWho are Kara and Nate?! \nWatch our documentary here: https://www.youtube.com/watch?v=FuFv4iF8wgg&t=1s \n\nOriginally from Nashville, Tennessee, we got married 2013 and were super “normal.” I was a teacher and Nate started a small printing business from the spare bedroom of our apartment. \n\nWe discovered the world of “travel hacking” while planning our honeymoon & became addicted ;)\n\nSo after 2 years of obsessively saving $35k and over 2 million miles and points, we sold our cars and apartment and left home January 10, 2016 for a “one year” trip around the world.\n\nOur goal was to see as many places as possible before we ran out of money and went back home to “normal life.” We started this channel to share our experiences with friends and family, but quickly fell in love with living on the road and found a new passion for capturing our travels through video. So we did everything we could to keep going.\n\n4 years later, we achieved our new goal of visiting 100 countries and all 7 continents. We had no plans to slow down, until 2020 forced us to ;) Which is when we bought a converted van to start exploring our own country for the first time!\n\nAfter ~2 years of van life, we are back to full time international traveling! And now we are in our 9TH YEAR of finding the best adventures the world has to offer :) \n\nWe are incredibly grateful to be able to continue doing something we love every day. 😊🎥🌎 Thank you to everyone who has been a part of our journey!\n\n00:00 back to van life!!!🚐\n00:40 Day 1: moving in\n03:49 Day 2: Nashville to Dallas\n04:21 Blow out in Memphis\n09:46 comment 💜 if you love Dots as much as we do\n11:55 Day 3: neurologist appointment \n18:24 Day 5: Dallas to Leadville \n19:36 Q&A \n30:46 Back in CO\n32:26 Day 6: Nate’s big announcement!!!!\n37:38 Bloops",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/iFEoxjcBREg/default.jpg",
+            "url": "https://i.ytimg.com/vi/KQFMB-Mf1LA/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/iFEoxjcBREg/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/KQFMB-Mf1LA/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/iFEoxjcBREg/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/KQFMB-Mf1LA/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KQFMB-Mf1LA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KQFMB-Mf1LA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
-        "channelTitle": "Jamie O'Brien",
+        "channelTitle": "Kara and Nate",
+        "tags": [
+          "van life",
+          "living in a van",
+          "van life vlog",
+          "travel vlog",
+          "sprinter van conversion",
+          "kara and nate",
+          "van life couple",
+          "full time van life",
+          "van conversion",
+          "couple vlog",
+          "off grid living",
+          "tiny house",
+          "tiny home on wheels",
+          "sprinter van",
+          "travel couple",
+          "van build",
+          "kara and nate van life",
+          "van life tips",
+          "travel"
+        ],
+        "categoryId": "19",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-09-03T18:00:24Z"
+        "localized": {
+          "title": "Back to Van Life + a big announcement!",
+          "description": "We’re back in our van for the summer!! In this episode, we move back into our tiny home, get a health update from my neurologist, & have a huge announcement at the end!! ;) Thanks LMNT for sponsoring this video! Get your free LMNT Sample Pack with any purchase at https://DrinkLMNT.com/KaraandNate Also try the new LMNT Sparkling-a bold, 16-ounce can of sparkling electrolyte water :)\n\n✈️ FareDrop Summer Sale is BACK! ☀️ Get 50% off FareDrop if you sign up here:  https://faredrop.app/yt_kn-summer24\nPLUS you'll receive a FareDrop goodie bag, AND you'll be entered to win a free all inclusive trip to the Dominican Republic! 😍\n\nEpisode 934 | Filmed July 2024 | Nashville - Dallas - Leadville, CO\n\n✈️ Daily Drop is our *FREE travel newsletter!* Get all the best travel news, tips, and tricks every weekday in your inbox by subscribing here ➡️\nhttps://faredrop.app/ytd_220827 \n\n📸 Get behind the scenes content on our Instagram! @karaandnate\nhttps://www.instagram.com/karaandnate/ \n\n📧 Read our Sunday Summary email to know what goes on between videos -\nhttps://karaandnate.com/sunday-summary/ \n\n🎶 Here’s where we got all of our copyright free songs used in this episode -\nhttp://bit.ly/epidemic_sound\n\n——————————————————\n\nWho are Kara and Nate?! \nWatch our documentary here: https://www.youtube.com/watch?v=FuFv4iF8wgg&t=1s \n\nOriginally from Nashville, Tennessee, we got married 2013 and were super “normal.” I was a teacher and Nate started a small printing business from the spare bedroom of our apartment. \n\nWe discovered the world of “travel hacking” while planning our honeymoon & became addicted ;)\n\nSo after 2 years of obsessively saving $35k and over 2 million miles and points, we sold our cars and apartment and left home January 10, 2016 for a “one year” trip around the world.\n\nOur goal was to see as many places as possible before we ran out of money and went back home to “normal life.” We started this channel to share our experiences with friends and family, but quickly fell in love with living on the road and found a new passion for capturing our travels through video. So we did everything we could to keep going.\n\n4 years later, we achieved our new goal of visiting 100 countries and all 7 continents. We had no plans to slow down, until 2020 forced us to ;) Which is when we bought a converted van to start exploring our own country for the first time!\n\nAfter ~2 years of van life, we are back to full time international traveling! And now we are in our 9TH YEAR of finding the best adventures the world has to offer :) \n\nWe are incredibly grateful to be able to continue doing something we love every day. 😊🎥🌎 Thank you to everyone who has been a part of our journey!\n\n00:00 back to van life!!!🚐\n00:40 Day 1: moving in\n03:49 Day 2: Nashville to Dallas\n04:21 Blow out in Memphis\n09:46 comment 💜 if you love Dots as much as we do\n11:55 Day 3: neurologist appointment \n18:24 Day 5: Dallas to Leadville \n19:36 Q&A \n30:46 Back in CO\n32:26 Day 6: Nate’s big announcement!!!!\n37:38 Bloops"
+        },
+        "defaultAudioLanguage": "en"
       }
     },
     {
-      "kind": "youtube#searchResult",
-      "etag": "_9aXnWoAufhKwhX-bBjmRXBXcbU",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "zQPemLlNBeI"
-      },
+      "kind": "youtube#video",
+      "etag": "TK5eOb5lueuEDjJ5VDEn3WmdwDE",
+      "id": "KoH4RcdNUoU",
       "snippet": {
-        "publishedAt": "2024-07-18T21:02:51Z",
-        "channelId": "UCsXYYt9hmwvaIl6v73JHKWw",
-        "title": "Insane surfing at Trestles yesterday",
-        "description": "Insane surfing at Trestles yesterday I headed to Lower Trestles yesterday to see what the new south swell had to offer.",
+        "publishedAt": "2024-07-26T19:00:16Z",
+        "channelId": "UCn_FAXem2-e3HQvmK-mOH4g",
+        "title": "The Amazing Digital Circus But smol",
+        "description": "All your lovable, psychologically distressed Digital Circus characters are now marketable mini-figures! Start your collection now: https://digitalcircus.store\nAll proceeds go straight into funding more Digital Circus!\n\nJoin the Glitch Inn! ► https://www.glitchinn.com\nTwitter ► https://twitter.com/glitch_prod\nInstagram ► https://www.instagram.com/glitch_prod/\nTik Tok ► https://www.tiktok.com/@glitch_productions\n\n#Glitch #GlitchProductions\nEnjoy (◕‿◕✿)",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/zQPemLlNBeI/default.jpg",
+            "url": "https://i.ytimg.com/vi/KoH4RcdNUoU/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/zQPemLlNBeI/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/KoH4RcdNUoU/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/zQPemLlNBeI/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/KoH4RcdNUoU/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KoH4RcdNUoU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KoH4RcdNUoU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
-        "channelTitle": "Brad Jacobson",
+        "channelTitle": "GLITCH",
+        "tags": [
+          "meta runner",
+          "glitch productions",
+          "funny",
+          "video game",
+          "webtoon",
+          "cartoon",
+          "3d animation",
+          "animation",
+          "2d animation",
+          "3d art",
+          "animated web series",
+          "web series",
+          "online animation",
+          "newgrounds",
+          "nintendo",
+          "fortnite",
+          "minecraft",
+          "smg4",
+          "mario",
+          "supermarioglitchy4",
+          "anime",
+          "western shounen",
+          "naruto",
+          "my hero academia",
+          "zelda",
+          "glitch"
+        ],
+        "categoryId": "1",
         "liveBroadcastContent": "none",
-        "publishTime": "2024-07-18T21:02:51Z"
+        "localized": {
+          "title": "The Amazing Digital Circus But smol",
+          "description": "All your lovable, psychologically distressed Digital Circus characters are now marketable mini-figures! Start your collection now: https://digitalcircus.store\nAll proceeds go straight into funding more Digital Circus!\n\nJoin the Glitch Inn! ► https://www.glitchinn.com\nTwitter ► https://twitter.com/glitch_prod\nInstagram ► https://www.instagram.com/glitch_prod/\nTik Tok ► https://www.tiktok.com/@glitch_productions\n\n#Glitch #GlitchProductions\nEnjoy (◕‿◕✿)"
+        },
+        "defaultAudioLanguage": "en"
       }
     },
     {
-      "kind": "youtube#searchResult",
-      "etag": "WKVg8urkPouVShs4zvhkZdWPUGo",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "ul4OVcbULIA"
-      },
+      "kind": "youtube#video",
+      "etag": "eTJvQU_t1Tu-xAFAYO-l59TLRCs",
+      "id": "vFi95wKqn0c",
       "snippet": {
-        "publishedAt": "2023-01-16T02:14:01Z",
-        "channelId": "UCLdPicN16eAKPKir8EY1UXQ",
-        "title": "5 things I wish I knew when I started surfing",
-        "description": "Learning to surf or improving your surfing can feel like an up-hill battle at times. But there are actually some really powerful ...",
+        "publishedAt": "2024-07-27T12:02:41Z",
+        "channelId": "UCOgaIuQYGr6ow_jbote4BKA",
+        "title": "MAX REACTS: Mortal Kombat 1 Khaos Reigns Reveal Trailer + Kombat Pack 2",
+        "description": "#mk1 #mortalkombat #reaction\nCheck out our Livestream! http://twitch.tv/maximilian_dood\n\nOur official merch collection! ►►► https://maxdood.tv/merch\nFollow Me on Twitter! http://www.twitter.com/maximilian_",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/ul4OVcbULIA/default.jpg",
+            "url": "https://i.ytimg.com/vi/vFi95wKqn0c/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/ul4OVcbULIA/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/vFi95wKqn0c/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/ul4OVcbULIA/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/vFi95wKqn0c/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vFi95wKqn0c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vFi95wKqn0c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
-        "channelTitle": "Kale Brock",
+        "channelTitle": "Maximilian Dood",
+        "tags": [
+          "maximilian",
+          "dood",
+          "fighting",
+          "games",
+          "capcom",
+          "street",
+          "fighter",
+          "hype",
+          "rage",
+          "max",
+          "reaction",
+          "twitch",
+          "videos",
+          "yo",
+          "videogames",
+          "maximilian_dood",
+          "max dood",
+          "dude",
+          "stream",
+          "streaming",
+          "mortal kombat",
+          "mortal kombat 1",
+          "mortal kombat 1 khaos reings",
+          "havic",
+          "cyrax",
+          "conan",
+          "ghost face",
+          "ghostface",
+          "T1000",
+          "noob saibot",
+          "kombat pack 2",
+          "mk1 season 2"
+        ],
+        "categoryId": "20",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-01-16T02:14:01Z"
+        "localized": {
+          "title": "MAX REACTS: Mortal Kombat 1 Khaos Reigns Reveal Trailer + Kombat Pack 2",
+          "description": "#mk1 #mortalkombat #reaction\nCheck out our Livestream! http://twitch.tv/maximilian_dood\n\nOur official merch collection! ►►► https://maxdood.tv/merch\nFollow Me on Twitter! http://www.twitter.com/maximilian_"
+        },
+        "defaultAudioLanguage": "en"
       }
     },
     {
-      "kind": "youtube#searchResult",
-      "etag": "Xt1p6WWmmrW0_M33zLPOK54y-xo",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "FgtpLZoAViw"
-      },
+      "kind": "youtube#video",
+      "etag": "ES3d6sumCFUR7XuKcvKXd5vkXck",
+      "id": "koWQOttLQcg",
       "snippet": {
-        "publishedAt": "2024-07-08T09:22:04Z",
-        "channelId": "UCoicMEw3njXscfwHlaAJVcQ",
-        "title": "SURFING IN POURING RAIN! *SATISFYING ASMR* (RAW POV)",
-        "description": "Join me as I surf in the RAIN! Plus a bonus session of unreleased footage TIMESTAMPS 00:00 Pre-Surf Rituals 00:40 Surfing ...",
+        "publishedAt": "2024-07-26T17:00:07Z",
+        "channelId": "UCmlkznD61Olu82oYGFr8gxg",
+        "title": "GloRilla - All Dere (feat. Moneybagg Yo) (Official Music VIdeo)",
+        "description": "Stream 'Ehhthang Ehhthang' out everywhere: https://glorilla.lnk.to/EhhthangEhhthang\n \nFollow #GloRilla:\nInstagram: https://www.instagram.com/glorillapimp/\nTwitter: https://twitter.com/GloTheofficial\nTikTok: https://www.tiktok.com/@glorilla03\nFacebook: https://www.facebook.com/gloyaltygirl\nMerch: https://shop.glorillaofficial.com/\nKeep up with GloRilla on #GloRidaz:\nInstagram: https://www.instagram.com/gloridazofficial/\nTwitter: https://twitter.com/RealGloridaz\nTikTok: https://www.tiktok.com/@gloridazofficial\n \nCredits:\n \nDirector - Anfernee Aguado “Anfy”\nProduction Company - ShotClock\nExecutive Producer - Harrison Corwin\nProducer - William Hickox\n1st AD - Showtime\nDP - Brian Beckwith\n1st AC - Rafael Njogu\nSteadicam - Dre Holmes\nGaffer - Luan Agostinho\nBBE - Andrew Gomez\nKey Grip - Lonnie Poole\nBBG - Clara Valadao\nGloRilla’s Stylist - EJ King\nGlorilla Makeup: Sadai Banks\nGlorilla Hair: Barbie\nMoneyBagg Yo’s Stylist - Exclusive Game\nChoreographer - Brittany Thompson\nCasting Director - The Casting Plug\nTruck PA - Fidel Azih\nSet PA - Yadis “Maguzzii” Frone\nSet PA - Alzie Walker\n2nd Unit DP - Grant Decyk\n2nd Unit AC - Matias Wajner\n2nd Unit Gaffer - Christian Del Rio\n2nd Unit Set PA - Idris Ajayi\nLocation - The Union Fit Hub\nLocation Rep - Corinthian Lyles\nEditor - Baylor Kim\nColor by Company 3\nSenior Colorist - Bryan Smaller\nAssociate Producer - Cameron Higaravathn\nTitle Card - Sblngr\nVideo Commissioner - Vincenza Conticchio\nLabel - CMG The Label / Interscope Records\n \n#Glorilla #EhhthangEhhthang #CMGTheLabel #MoneybaggYo #AllDere\n\nMusic video by GloRilla performing All Dere. © 2024 CMG/Interscope Records\n\nhttp://vevo.ly/KfTdoV",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/FgtpLZoAViw/default.jpg",
+            "url": "https://i.ytimg.com/vi/koWQOttLQcg/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/FgtpLZoAViw/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/koWQOttLQcg/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/FgtpLZoAViw/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/koWQOttLQcg/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/koWQOttLQcg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/koWQOttLQcg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
-        "channelTitle": "Surfing With Noz",
+        "channelTitle": "GloRillaVEVO",
+        "tags": [
+          "GloRilla",
+          "All",
+          "Dere",
+          "CMG/Interscope",
+          "Records",
+          "Hip",
+          "Hop"
+        ],
+        "categoryId": "10",
         "liveBroadcastContent": "none",
-        "publishTime": "2024-07-08T09:22:04Z"
+        "localized": {
+          "title": "GloRilla - All Dere (feat. Moneybagg Yo) (Official Music VIdeo)",
+          "description": "Stream 'Ehhthang Ehhthang' out everywhere: https://glorilla.lnk.to/EhhthangEhhthang\n \nFollow #GloRilla:\nInstagram: https://www.instagram.com/glorillapimp/\nTwitter: https://twitter.com/GloTheofficial\nTikTok: https://www.tiktok.com/@glorilla03\nFacebook: https://www.facebook.com/gloyaltygirl\nMerch: https://shop.glorillaofficial.com/\nKeep up with GloRilla on #GloRidaz:\nInstagram: https://www.instagram.com/gloridazofficial/\nTwitter: https://twitter.com/RealGloridaz\nTikTok: https://www.tiktok.com/@gloridazofficial\n \nCredits:\n \nDirector - Anfernee Aguado “Anfy”\nProduction Company - ShotClock\nExecutive Producer - Harrison Corwin\nProducer - William Hickox\n1st AD - Showtime\nDP - Brian Beckwith\n1st AC - Rafael Njogu\nSteadicam - Dre Holmes\nGaffer - Luan Agostinho\nBBE - Andrew Gomez\nKey Grip - Lonnie Poole\nBBG - Clara Valadao\nGloRilla’s Stylist - EJ King\nGlorilla Makeup: Sadai Banks\nGlorilla Hair: Barbie\nMoneyBagg Yo’s Stylist - Exclusive Game\nChoreographer - Brittany Thompson\nCasting Director - The Casting Plug\nTruck PA - Fidel Azih\nSet PA - Yadis “Maguzzii” Frone\nSet PA - Alzie Walker\n2nd Unit DP - Grant Decyk\n2nd Unit AC - Matias Wajner\n2nd Unit Gaffer - Christian Del Rio\n2nd Unit Set PA - Idris Ajayi\nLocation - The Union Fit Hub\nLocation Rep - Corinthian Lyles\nEditor - Baylor Kim\nColor by Company 3\nSenior Colorist - Bryan Smaller\nAssociate Producer - Cameron Higaravathn\nTitle Card - Sblngr\nVideo Commissioner - Vincenza Conticchio\nLabel - CMG The Label / Interscope Records\n \n#Glorilla #EhhthangEhhthang #CMGTheLabel #MoneybaggYo #AllDere\n\nMusic video by GloRilla performing All Dere. © 2024 CMG/Interscope Records\n\nhttp://vevo.ly/KfTdoV"
+        },
+        "defaultAudioLanguage": "en"
       }
     },
     {
-      "kind": "youtube#searchResult",
-      "etag": "MtMH9Y2nd1eq70sedUfBi3rxSWA",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "8PbqrHr5SSo"
-      },
+      "kind": "youtube#video",
+      "etag": "s7crZfZAykQNINVmbPpIkPcLnO8",
+      "id": "Te8uN--wcM8",
       "snippet": {
-        "publishedAt": "2024-07-24T10:02:20Z",
-        "channelId": "UCIYLOcEUX6TbBo7HQVF2PKA",
-        "title": "Doctors attempt to reattach surfer’s leg that was bitten off by shark | 9 News Australia",
-        "description": "Doctors have attempted to reattach a surfer's leg after it was bitten off in a shark attack on the NSW coast. | Subscribe and ...",
+        "publishedAt": "2024-07-26T20:00:21Z",
+        "channelId": "UCYAB7hh1ohA8-iX54EpMdeA",
+        "title": "Finally Revealing My HUGE Secret Project (Part 1)",
+        "description": "Today I celebrate my 10 Million subscriber milestone on my channel! And in order to celebrate, I decided to take on a hugely requested project that I have been working on and hinting at for the last 5 months!\n\nIt's been such a massive time commitment to get all of this done, but finally I have finished illustrating ALL of my original characters in preparation for creating a full ME character guidebook. This is only part 1, so you'll learn more next week. But for today, enjoy going through an enormous amount of information about my characters. buckle in, it's a long one....\n\nGENERATIONAL SET/ PICKLE PLUSH https://moriahelizabethmerch.com/\n\n___________WELCOME TO MY CHANNEL__________\n\nHey! my name is Moriah (pronounced muh-rye-yuh) Elizabeth and this is my channel....obviously. I'm 29 and like doing creative activities (mostly painting on things), or really anything that gives me an excuse to use rainbows, sprinkles and my own cutesy characters in excess. I'm heavy into editing, so my video are chalk full of sound effects, filters and lil....moments, or as we like to call them \"MEmes.\" I paint on squishies, thrift store finds, and various other items I find. I also love to draw, traditionally and digitally. I'm not the most skilled artist out here, but I like to focus on having fun with creativity and being able to laugh at my own mistakes. \n\nCURRENT SERIES:\nSquishy Makeovers: Fixing and decorating used squishies sent from my viewers\nThrift Store Makeovers: Fixing and decorating stuff I find at thrift stores/yard sales\nBake With ME: Recreating squishies I've decorated in real life\nCreate This Book: Drawing in the prompt book that I wrote (available to purchase and follow along)\nSquishy Unboxing: Opening used squishy packages sent from viewers\nDrawings to Squishies: turning my flat drawings into squishies\nFinishing Art Ideas: Choosing art ideas from my giant list and making them happen\nSquishies I've Been Avoiding: Painting on the squishies I DON'T want to paint\n\n\nFind Products I Use (contains affiliate links):\nhttps://a.co/4XDtrmV\n\n\n___UPLOAD SCHEDULE___\n\nFriday at 4:00pm ET\n\n____PURCHASE ME PRODUCTS____\n\nCREATE THIS BOOK:\nhttps://amzn.to/2vUerfI\n\nCREATE THIS BOOK 2:\nhttps://amzn.to/2Nx2G9f\n\nCREATE THIS BOOK 3:\nhttps://amzn.to/3OQpfEJ\n\nME Merchandise:\nhttps://moriahelizabethmerch.com/\n\nOfficial Amazon Store:\nhttps://www.amazon.com/stores/MoriahElizabeth/page/84A1B7AA-51AC-4B6B-AD8D-A20CCD5FCB47?ref_=ast_bln\n\nME Nail Polish\nslatebrands.com/menails\n\n\n____ME SOCIALS____\n\nINSTAGRAM: \nhttps://www.instagram.com/moriahelizabethofficial/\n\nTIKTOK:\nhttps://www.tiktok.com/@moriahelizabeth\n\nFACEBOOK:\nhttps://www.facebook.com/Moriah-Elizabeth-102592864903627\n\nSNAPCHAT:\nMoriahOfficial\n\nVISIT ME WEBSITE:\nhttps://www.moriahelizabeth.com/\n\n\n____CONTACT ME____\n\nFOR GENERAL QUESTIONS/COMMENTS/CONCERNS:\nFanmail@Moriah.Video\n\nFOR BUSINESS INQUIRIES/OPPORTUNITIES ONLY:\nmoriah@nightmedia.co\n\n\n_____MAIL ME_____\n\nFor sending squishies, Letters, or general fan mail, please contact: FANMAIL@MORIAH.VIDEO to request my P.O. box address \n(must be 13+ to send mail)\nATTENTION: Unfortunately I can only give out my address to a small amount of people each week. This is to make sure that I get a reasonable amount of mail and can feature the maximum amount on camera. I apologize in advance if you do not recieve the address.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/8PbqrHr5SSo/default.jpg",
+            "url": "https://i.ytimg.com/vi/Te8uN--wcM8/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/8PbqrHr5SSo/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Te8uN--wcM8/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/8PbqrHr5SSo/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Te8uN--wcM8/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Te8uN--wcM8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Te8uN--wcM8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
-        "channelTitle": "9 News Australia",
+        "channelTitle": "Moriah Elizabeth",
+        "categoryId": "24",
         "liveBroadcastContent": "none",
-        "publishTime": "2024-07-24T10:02:20Z"
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Finally Revealing My HUGE Secret Project (Part 1)",
+          "description": "Today I celebrate my 10 Million subscriber milestone on my channel! And in order to celebrate, I decided to take on a hugely requested project that I have been working on and hinting at for the last 5 months!\n\nIt's been such a massive time commitment to get all of this done, but finally I have finished illustrating ALL of my original characters in preparation for creating a full ME character guidebook. This is only part 1, so you'll learn more next week. But for today, enjoy going through an enormous amount of information about my characters. buckle in, it's a long one....\n\nGENERATIONAL SET/ PICKLE PLUSH https://moriahelizabethmerch.com/\n\n___________WELCOME TO MY CHANNEL__________\n\nHey! my name is Moriah (pronounced muh-rye-yuh) Elizabeth and this is my channel....obviously. I'm 29 and like doing creative activities (mostly painting on things), or really anything that gives me an excuse to use rainbows, sprinkles and my own cutesy characters in excess. I'm heavy into editing, so my video are chalk full of sound effects, filters and lil....moments, or as we like to call them \"MEmes.\" I paint on squishies, thrift store finds, and various other items I find. I also love to draw, traditionally and digitally. I'm not the most skilled artist out here, but I like to focus on having fun with creativity and being able to laugh at my own mistakes. \n\nCURRENT SERIES:\nSquishy Makeovers: Fixing and decorating used squishies sent from my viewers\nThrift Store Makeovers: Fixing and decorating stuff I find at thrift stores/yard sales\nBake With ME: Recreating squishies I've decorated in real life\nCreate This Book: Drawing in the prompt book that I wrote (available to purchase and follow along)\nSquishy Unboxing: Opening used squishy packages sent from viewers\nDrawings to Squishies: turning my flat drawings into squishies\nFinishing Art Ideas: Choosing art ideas from my giant list and making them happen\nSquishies I've Been Avoiding: Painting on the squishies I DON'T want to paint\n\n\nFind Products I Use (contains affiliate links):\nhttps://a.co/4XDtrmV\n\n\n___UPLOAD SCHEDULE___\n\nFriday at 4:00pm ET\n\n____PURCHASE ME PRODUCTS____\n\nCREATE THIS BOOK:\nhttps://amzn.to/2vUerfI\n\nCREATE THIS BOOK 2:\nhttps://amzn.to/2Nx2G9f\n\nCREATE THIS BOOK 3:\nhttps://amzn.to/3OQpfEJ\n\nME Merchandise:\nhttps://moriahelizabethmerch.com/\n\nOfficial Amazon Store:\nhttps://www.amazon.com/stores/MoriahElizabeth/page/84A1B7AA-51AC-4B6B-AD8D-A20CCD5FCB47?ref_=ast_bln\n\nME Nail Polish\nslatebrands.com/menails\n\n\n____ME SOCIALS____\n\nINSTAGRAM: \nhttps://www.instagram.com/moriahelizabethofficial/\n\nTIKTOK:\nhttps://www.tiktok.com/@moriahelizabeth\n\nFACEBOOK:\nhttps://www.facebook.com/Moriah-Elizabeth-102592864903627\n\nSNAPCHAT:\nMoriahOfficial\n\nVISIT ME WEBSITE:\nhttps://www.moriahelizabeth.com/\n\n\n____CONTACT ME____\n\nFOR GENERAL QUESTIONS/COMMENTS/CONCERNS:\nFanmail@Moriah.Video\n\nFOR BUSINESS INQUIRIES/OPPORTUNITIES ONLY:\nmoriah@nightmedia.co\n\n\n_____MAIL ME_____\n\nFor sending squishies, Letters, or general fan mail, please contact: FANMAIL@MORIAH.VIDEO to request my P.O. box address \n(must be 13+ to send mail)\nATTENTION: Unfortunately I can only give out my address to a small amount of people each week. This is to make sure that I get a reasonable amount of mail and can feature the maximum amount on camera. I apologize in advance if you do not recieve the address."
+        },
+        "defaultAudioLanguage": "en"
       }
     },
     {
-      "kind": "youtube#searchResult",
-      "etag": "1cF2KBOynXqIogGXb7F-Hd3k_t4",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "gWZ8PwO0CkQ"
-      },
+      "kind": "youtube#video",
+      "etag": "TzkP8Cx1ZRkukW0q7kg0YZVwz_g",
+      "id": "49lQ3QLB0vQ",
       "snippet": {
-        "publishedAt": "2024-05-25T00:03:07Z",
-        "channelId": "UCiiFGfvlKvX3uzMovO3unaw",
-        "title": "BIG WAVE SURFING COMPILATION 2024 * TOUR OF DUTY *",
-        "description": "BIG WAVE SURFING COMPILATION 2024 ** TOUR OF DUTY ** ** WORLD RECORD MONSTERS 60-100ft OF PURE FEAR ...",
+        "publishedAt": "2024-07-27T01:10:17Z",
+        "channelId": "UC3L9XPe0_FGfRG-CMGtBvFg",
+        "title": "They Said They Were The Greatest Team Of All-Time...",
+        "description": "Don’t miss out on all the action this week at DraftKings! Download the DraftKings app today! Sign-up using https://dkng.co/jxmyhighroller or through my promo code JXMYHIGHROLLER\n\nGAMBLING PROBLEM? CALL 1-800-GAMBLER (tel:18004262537)\n(AZ/CO/IA/IL/IN/KS/KY/LA/MD/ME/MI/NC/NH/NJ/OH/OR/PA/TN/VA/VT/WV/WY), (800)327-5050 or visit http://gamblinghelplinema.org (MA). Call 877-8-HOPENY/text HOPENY(467369) (NY). Please Gamble Responsibly. Call 888-789-7777/visit http://ccpg.org (CT), or visit http://www.1800gambler.net (WV).\n\n21+ (18+ KY/NH/WY). Physically present in AZ/CO/CT/IL/IN/IA/KS/KY/LA(select parishes)/MA/MD/ME/MI/NC/NJ/NY/OH/PA/TN/VA/VT/WV/WY only. Void in ONT/OR/NH. Eligibility restrictions apply. On behalf of Boot Hill Casino & Resort (KS). 1 per new customer. Min. $5 deposit. Min. $5 bet. Max. $150 issued as non-withdrawable Bonus Bets that expire in 7 days (168 hours). Stake removed from payout. Ends 8/18/24 11:59 PM ET. Terms: http://dkng.co/dk-offer-terms. Sponsored by DK.\n\n*Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use. No copyright infringement intended. ALL RIGHTS BELONG TO THEIR RESPECTIVE OWNERS",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/gWZ8PwO0CkQ/default.jpg",
+            "url": "https://i.ytimg.com/vi/49lQ3QLB0vQ/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/gWZ8PwO0CkQ/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/49lQ3QLB0vQ/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/gWZ8PwO0CkQ/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/49lQ3QLB0vQ/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/49lQ3QLB0vQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/49lQ3QLB0vQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
-        "channelTitle": "Absolutely Flawless",
+        "channelTitle": "JxmyHighroller",
+        "tags": [
+          "LeBron James",
+          "House of Highlights",
+          "ESPN",
+          "NBA highlights",
+          "Jimmy Highroller",
+          "NBA trash talk",
+          "Buzzer Beaters",
+          "Ankle Breakers",
+          "NBA Championship",
+          "Rebound",
+          "Stephen Curry",
+          "Lakers",
+          "nba breaking news",
+          "Nikola Jokic",
+          "Victor Wembenyama",
+          "Michael Jordan",
+          "kobe bryant",
+          "kyrie",
+          "nba free agency",
+          "Giannis Antetokounmpo",
+          "NBA trade",
+          "Game Winner",
+          "Denver Nuggets",
+          "Boston Celtics",
+          "NBA championship",
+          "Paul George",
+          "Bronny James",
+          "Olympics",
+          "Olympic basketball",
+          "team usa"
+        ],
+        "categoryId": "17",
         "liveBroadcastContent": "none",
-        "publishTime": "2024-05-25T00:03:07Z"
+        "localized": {
+          "title": "They Said They Were The Greatest Team Of All-Time...",
+          "description": "Don’t miss out on all the action this week at DraftKings! Download the DraftKings app today! Sign-up using https://dkng.co/jxmyhighroller or through my promo code JXMYHIGHROLLER\n\nGAMBLING PROBLEM? CALL 1-800-GAMBLER (tel:18004262537)\n(AZ/CO/IA/IL/IN/KS/KY/LA/MD/ME/MI/NC/NH/NJ/OH/OR/PA/TN/VA/VT/WV/WY), (800)327-5050 or visit http://gamblinghelplinema.org (MA). Call 877-8-HOPENY/text HOPENY(467369) (NY). Please Gamble Responsibly. Call 888-789-7777/visit http://ccpg.org (CT), or visit http://www.1800gambler.net (WV).\n\n21+ (18+ KY/NH/WY). Physically present in AZ/CO/CT/IL/IN/IA/KS/KY/LA(select parishes)/MA/MD/ME/MI/NC/NJ/NY/OH/PA/TN/VA/VT/WV/WY only. Void in ONT/OR/NH. Eligibility restrictions apply. On behalf of Boot Hill Casino & Resort (KS). 1 per new customer. Min. $5 deposit. Min. $5 bet. Max. $150 issued as non-withdrawable Bonus Bets that expire in 7 days (168 hours). Stake removed from payout. Ends 8/18/24 11:59 PM ET. Terms: http://dkng.co/dk-offer-terms. Sponsored by DK.\n\n*Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use. No copyright infringement intended. ALL RIGHTS BELONG TO THEIR RESPECTIVE OWNERS"
+        }
       }
     },
     {
-      "kind": "youtube#searchResult",
-      "etag": "tJyXxQIdG0pPRlSnHQv7PhtG7yU",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "0ZTzeTnwLew"
-      },
+      "kind": "youtube#video",
+      "etag": "Kk0MsEV8QHThUTpnQ9f-1YuYbjc",
+      "id": "5q8JwrteXJg",
       "snippet": {
-        "publishedAt": "2023-04-24T14:43:47Z",
-        "channelId": "UCKo-NbWOxnxBnU41b-AoKeA",
-        "title": "WORST Wipeout KAI LENNY Has Ever Had! 😳 #surfer",
-        "description": "surfermagazine #shorts #fail Subscribe for more.",
+        "publishedAt": "2024-07-27T15:56:47Z",
+        "channelId": "UCNvzD7Z-g64bPXxGzaQaa4g",
+        "title": "Fallout London - Before You Buy",
+        "description": "Fallout: London (PC) is one of the most ambitious fan mod projects ever. How is it? Let's talk.\nSubscribe for more: https://www.youtube.com/gameranxTV?sub_confirmation=1",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/0ZTzeTnwLew/default.jpg",
+            "url": "https://i.ytimg.com/vi/5q8JwrteXJg/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/0ZTzeTnwLew/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/5q8JwrteXJg/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/0ZTzeTnwLew/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/5q8JwrteXJg/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5q8JwrteXJg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5q8JwrteXJg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
-        "channelTitle": "SURFER",
+        "channelTitle": "gameranx",
+        "tags": [
+          "fallout london",
+          "fallout london before you buy",
+          "fallout london pc mod",
+          "fallout 4 best mod",
+          "fallout 4 story mods",
+          "fallout 4 london review",
+          "fallout london how to install",
+          "fallout london crash fix",
+          "gameranx",
+          "falcon"
+        ],
+        "categoryId": "20",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-04-24T14:43:47Z"
+        "localized": {
+          "title": "Fallout London - Before You Buy",
+          "description": "Fallout: London (PC) is one of the most ambitious fan mod projects ever. How is it? Let's talk.\nSubscribe for more: https://www.youtube.com/gameranxTV?sub_confirmation=1"
+        },
+        "defaultAudioLanguage": "en"
       }
     },
     {
-      "kind": "youtube#searchResult",
-      "etag": "KPLn41cX_zMWGMjARq9ViLDR46Y",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "v1IEFUt5Dlo"
-      },
+      "kind": "youtube#video",
+      "etag": "k7bXfLcSAHME-8olbjkVKSgHu4s",
+      "id": "W10cztB9rvw",
       "snippet": {
-        "publishedAt": "2023-10-26T19:30:04Z",
-        "channelId": "UCx18ywTcohtS9lpNXt8noWQ",
-        "title": "The Best Surfing Moments",
-        "description": "via https://www.tiktok.com/@moderndaymama1) (via https://www.tiktok.com/@swagstaff_22 (via ...",
+        "publishedAt": "2024-07-26T16:00:05Z",
+        "channelId": "UCyQ-DUV6lZgoL8wiPusYiUg",
+        "title": "RYAN REYNOLDS & HUGH JACKMAN | CHICKEN SHOP DATE",
+        "description": "Amelia meets Ryan Reynolds and Hugh Jackman for a date in a Chicken Shop.\n\nCreated and Written by Amelia Dimoldenberg\nDirector: Amelia Dimoldenberg\n\nCo-Written by Ania Magliano\n\nExecutive Producers: Liv West and Amelia Dimoldenberg\nProducer: Diara Vassallo Ndiaye\n\nCam A: Jonathan Moore\nCam B: Tayo Yussuf\n\nSound Op: Jordan Tewkesbury\nEditor: Joseph Bolger\n\nColourist: Alex O’Brien  @ Okay Studio\nPost Producer: Athene Xenia Aristocleous @ Okay Studio\nSound Design/Mix: Mark Duckett @ Bounce\n\nAnimation by Naomi Anderson-Subryan\nSocial Media: Ashleigh Kybert & Joel Bjarni Marlinarson\nPhotographer: Grace Olukanni\n\nStyling: Chloe Griffin\nHair: Ellie Fox",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/v1IEFUt5Dlo/default.jpg",
+            "url": "https://i.ytimg.com/vi/W10cztB9rvw/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/v1IEFUt5Dlo/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/W10cztB9rvw/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/v1IEFUt5Dlo/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/W10cztB9rvw/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/W10cztB9rvw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/W10cztB9rvw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
-        "channelTitle": "Omar Raja - ESPN",
+        "channelTitle": "Amelia Dimoldenberg",
+        "categoryId": "24",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-10-26T19:30:04Z"
+        "localized": {
+          "title": "RYAN REYNOLDS & HUGH JACKMAN | CHICKEN SHOP DATE",
+          "description": "Amelia meets Ryan Reynolds and Hugh Jackman for a date in a Chicken Shop.\n\nCreated and Written by Amelia Dimoldenberg\nDirector: Amelia Dimoldenberg\n\nCo-Written by Ania Magliano\n\nExecutive Producers: Liv West and Amelia Dimoldenberg\nProducer: Diara Vassallo Ndiaye\n\nCam A: Jonathan Moore\nCam B: Tayo Yussuf\n\nSound Op: Jordan Tewkesbury\nEditor: Joseph Bolger\n\nColourist: Alex O’Brien  @ Okay Studio\nPost Producer: Athene Xenia Aristocleous @ Okay Studio\nSound Design/Mix: Mark Duckett @ Bounce\n\nAnimation by Naomi Anderson-Subryan\nSocial Media: Ashleigh Kybert & Joel Bjarni Marlinarson\nPhotographer: Grace Olukanni\n\nStyling: Chloe Griffin\nHair: Ellie Fox"
+        },
+        "defaultAudioLanguage": "en-GB"
       }
     },
     {
-      "kind": "youtube#searchResult",
-      "etag": "1kARsUzzM9bAPfGeQGWavQRBiaQ",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "G85Naru4joQ"
-      },
+      "kind": "youtube#video",
+      "etag": "euvuu9OYzWC-cG1fMm9W8FUjvyE",
+      "id": "Xenstc6mHWs",
       "snippet": {
-        "publishedAt": "2023-05-31T21:15:56Z",
-        "channelId": "UCLdPicN16eAKPKir8EY1UXQ",
-        "title": "Local surfer kicks surfboard at me | Bali POV",
-        "description": "",
+        "publishedAt": "2024-07-26T16:00:09Z",
+        "channelId": "UCIsbLox_y9dCIMLd8tdC6qg",
+        "title": "Ryan Reynolds & Hugh Jackman Take Lie Detector Tests | Vanity Fair",
+        "description": "The stars of 'Deadpool & Wolverine' take Vanity Fair's infamous lie detector test. Has Ryan Reynolds and wife Blake Lively watched 'The Green Lantern' together as a family? Was he actually behind the 2014 test footage leak of the original 'Deadpool'? How many copies of the 'Sexiest Man' issue did Hugh Jackman buy? Was the main reason why Hugh came back to 'Deadpool & Wolverine' to kick Ryan's butt again? \r\n\r\n\r\nDirector: Adam Lance Garcia\r\nDirector of Photography: Jack Belisle\r\nEditor: Christopher Jones; Louis Lalire\r\nFeaturing: Hugh Jackman, Ryan Reynolds\r\nProducer: Madison Coffey\r\nLine Producer: Romeeka Powell\r\nAssociate Producer: Lyla Neely\r\nProduction Manager: Andressa Pelachi\r\nProduction Coordinator: Elizabeth Hymes\r\nTalent Booker: Lauren Mendoza\r\nCamera Operator: Chloe Ramos\r\nGaffer: David Djaco\r\nGrip: Mar Alfonso\r\nAudio Engineer: Sean Paulsen\r\nProduction Assistant: Kelsey Cueller, Raven Kilgore\r\nPost Production Supervisor: Christian Olguin\r\nPost Production Coordinator: Ian Bryant\r\nSupervising Editor: Doug Larsen\r\nAssistant Editor: Fynn Lithgow\r\nSpecial Thanks: Louis Conte\n\nStill haven’t subscribed to Vanity Fair on YouTube? ►► http://bit.ly/2z6Ya9M\r\n\r\nWant to stay in the know? Subscribe to Vanity Fair Magazine and be exquisitely informed ►► http://vntyfr.com/2RuQGW2\r\n\r\nABOUT VANITY FAIR\r\nArts and entertainment, business and media, politics, and world affairs—Vanity Fair’s features and exclusive videos capture the people, places, and ideas that define modern culture.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/G85Naru4joQ/default.jpg",
+            "url": "https://i.ytimg.com/vi/Xenstc6mHWs/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/G85Naru4joQ/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Xenstc6mHWs/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/G85Naru4joQ/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Xenstc6mHWs/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Xenstc6mHWs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Xenstc6mHWs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
-        "channelTitle": "Kale Brock",
+        "channelTitle": "Vanity Fair",
+        "tags": [
+          "celebrity",
+          "comedy",
+          "deadpool",
+          "deadpool & wolverine",
+          "hugh jackman",
+          "hugh jackman interview",
+          "hugh jackman movies",
+          "lie detector test",
+          "marvel",
+          "ryan reynolds",
+          "ryan reynolds interview",
+          "ryan reynolds movies",
+          "science & tech",
+          "science & technology",
+          "science and tech",
+          "science and technology",
+          "stray kids",
+          "stray kids deadpool",
+          "stray kids deadpool & wolverine",
+          "vanity fair",
+          "vanity fair lie detector test",
+          "wolverine",
+          "x-men",
+          "xmen"
+        ],
+        "categoryId": "24",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-05-31T21:15:56Z"
+        "localized": {
+          "title": "Ryan Reynolds & Hugh Jackman Take Lie Detector Tests | Vanity Fair",
+          "description": "The stars of 'Deadpool & Wolverine' take Vanity Fair's infamous lie detector test. Has Ryan Reynolds and wife Blake Lively watched 'The Green Lantern' together as a family? Was he actually behind the 2014 test footage leak of the original 'Deadpool'? How many copies of the 'Sexiest Man' issue did Hugh Jackman buy? Was the main reason why Hugh came back to 'Deadpool & Wolverine' to kick Ryan's butt again? \r\n\r\n\r\nDirector: Adam Lance Garcia\r\nDirector of Photography: Jack Belisle\r\nEditor: Christopher Jones; Louis Lalire\r\nFeaturing: Hugh Jackman, Ryan Reynolds\r\nProducer: Madison Coffey\r\nLine Producer: Romeeka Powell\r\nAssociate Producer: Lyla Neely\r\nProduction Manager: Andressa Pelachi\r\nProduction Coordinator: Elizabeth Hymes\r\nTalent Booker: Lauren Mendoza\r\nCamera Operator: Chloe Ramos\r\nGaffer: David Djaco\r\nGrip: Mar Alfonso\r\nAudio Engineer: Sean Paulsen\r\nProduction Assistant: Kelsey Cueller, Raven Kilgore\r\nPost Production Supervisor: Christian Olguin\r\nPost Production Coordinator: Ian Bryant\r\nSupervising Editor: Doug Larsen\r\nAssistant Editor: Fynn Lithgow\r\nSpecial Thanks: Louis Conte\n\nStill haven’t subscribed to Vanity Fair on YouTube? ►► http://bit.ly/2z6Ya9M\r\n\r\nWant to stay in the know? Subscribe to Vanity Fair Magazine and be exquisitely informed ►► http://vntyfr.com/2RuQGW2\r\n\r\nABOUT VANITY FAIR\r\nArts and entertainment, business and media, politics, and world affairs—Vanity Fair’s features and exclusive videos capture the people, places, and ideas that define modern culture."
+        },
+        "defaultAudioLanguage": "en-US"
       }
     },
     {
-      "kind": "youtube#searchResult",
-      "etag": "O1tXFB1pirKRAcD9DSzsaHdIARA",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "5qsHU88dwuI"
-      },
+      "kind": "youtube#video",
+      "etag": "ZE6rHcR6YXbB3qI73HpyWI_4KQo",
+      "id": "VkxrCpjkEDs",
       "snippet": {
-        "publishedAt": "2023-09-21T03:00:06Z",
-        "channelId": "UCc-oOp182_mo5TicquwUVoA",
-        "title": "Surfing with his son on his back!❤️😲",
-        "description": "shorts Surfing with his child on his back!❤️   (clip via; billykemper on instagram) - : To submit your own content, please reach ...",
+        "publishedAt": "2024-07-26T20:20:40Z",
+        "channelId": "UCOsATJw-IZgqGT8MFrHjKGg",
+        "title": "top fears",
+        "description": "Thanks to Keeps for sponsoring this video & for the free product! Head to http://keeps.com/icecreamsandwich to get a special offer. Individual results may vary.\n\nfear is a funny thing, and also it's not funny it's annoying. Being me I am afraid of a lot of stuff. I wonder what life would be like if I wasn't afraid of things like flying and heights and darkness and stuff. idk. probably pretty rad. but also maybe more dangerous. \n\nThank you for watching.\n\nTEAM: \nDavidToons - https://twitter.com/DavidToons_\nAbnormalChaos - https://linktr.ee/abnormalchaos\nforrest - https://linktr.ee/dmpy\nand me :)\n\nMERCH IS HERE:\nhttps://icecreamsandwich.store/\n📱 twitter:\nhttps://twitter.com/ICSandwichGuy\n📷 instagram:\nhttps://www.instagram.com/icecreamsandwichguy/",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/5qsHU88dwuI/default.jpg",
+            "url": "https://i.ytimg.com/vi/VkxrCpjkEDs/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/5qsHU88dwuI/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/VkxrCpjkEDs/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/5qsHU88dwuI/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/VkxrCpjkEDs/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VkxrCpjkEDs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VkxrCpjkEDs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
-        "channelTitle": "Wiry",
+        "channelTitle": "Ice Cream Sandwich",
+        "categoryId": "23",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-09-21T03:00:06Z"
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "top fears",
+          "description": "Thanks to Keeps for sponsoring this video & for the free product! Head to http://keeps.com/icecreamsandwich to get a special offer. Individual results may vary.\n\nfear is a funny thing, and also it's not funny it's annoying. Being me I am afraid of a lot of stuff. I wonder what life would be like if I wasn't afraid of things like flying and heights and darkness and stuff. idk. probably pretty rad. but also maybe more dangerous. \n\nThank you for watching.\n\nTEAM: \nDavidToons - https://twitter.com/DavidToons_\nAbnormalChaos - https://linktr.ee/abnormalchaos\nforrest - https://linktr.ee/dmpy\nand me :)\n\nMERCH IS HERE:\nhttps://icecreamsandwich.store/\n📱 twitter:\nhttps://twitter.com/ICSandwichGuy\n📷 instagram:\nhttps://www.instagram.com/icecreamsandwichguy/"
+        },
+        "defaultAudioLanguage": "en"
       }
     },
     {
-      "kind": "youtube#searchResult",
-      "etag": "O3-wPFFGP_SgDL4zMX2ZJB5-q_Q",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "7jHCY8Co998"
-      },
+      "kind": "youtube#video",
+      "etag": "Bh00fkEyuiC9EVywEWqWSwVRFs8",
+      "id": "YbDzBpILqNY",
       "snippet": {
-        "publishedAt": "2023-06-07T21:08:39Z",
-        "channelId": "UCDflLhMDlY14-9sDRd06sNg",
-        "title": "Tallest waves in the world 😱 #surf  #Nazaré #BigWaveSurfing",
-        "description": "",
+        "publishedAt": "2024-07-25T19:00:06Z",
+        "channelId": "UCqfqdCqPHxgtdJ0m32obDiw",
+        "title": "YTB Fatt & Lil Durk - Conspiracy V2 (Official Video)",
+        "description": "Stream \"On Zai\" Now: http://ytbfatt.lnk.to/onzai\n\nDirector - @JerryPHD \nIG: @ytbfatt & @LilDurk \n\nBooking: \nDanjoe (901)-900-6557\nCP (213)- 479-8876",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/7jHCY8Co998/default.jpg",
+            "url": "https://i.ytimg.com/vi/YbDzBpILqNY/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/7jHCY8Co998/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/YbDzBpILqNY/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/7jHCY8Co998/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/YbDzBpILqNY/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YbDzBpILqNY/sddefault.jpg",
+            "width": 640,
+            "height": 480
           }
         },
-        "channelTitle": "Curiosity Culture",
+        "channelTitle": "YTB Fatt ",
+        "categoryId": "10",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-06-07T21:08:39Z"
+        "localized": {
+          "title": "YTB Fatt & Lil Durk - Conspiracy V2 (Official Video)",
+          "description": "Stream \"On Zai\" Now: http://ytbfatt.lnk.to/onzai\n\nDirector - @JerryPHD \nIG: @ytbfatt & @LilDurk \n\nBooking: \nDanjoe (901)-900-6557\nCP (213)- 479-8876"
+        },
+        "defaultAudioLanguage": "en-US"
       }
     },
     {
-      "kind": "youtube#searchResult",
-      "etag": "ddOELdNYbRfBDcxEOwFzxU3mzqo",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "sW6wIes9VYU"
-      },
+      "kind": "youtube#video",
+      "etag": "8mG4Y-r934igb0XarsEb7GbhX7M",
+      "id": "S7_0QuGodtE",
       "snippet": {
-        "publishedAt": "2023-10-11T12:30:25Z",
-        "channelId": "UCx18ywTcohtS9lpNXt8noWQ",
-        "title": "These Surfing Moments Are Wild",
-        "description": "(via @Tucker Wooding) (via @Eimeo) (via @rockismo/IG) (via sebastiansurfs/IG) Check out my TikTok which has a ton of behind ...",
+        "publishedAt": "2024-07-26T22:37:49Z",
+        "channelId": "UCOGxnF5dWQtoEz6E-msabZA",
+        "title": "Opening Ceremony recap | Paris Pulse - Day 0 | #paris2024",
+        "description": "Our CBC Sports morning host Dale Manucdoc, and our evening host Meg Roberts bring you the most spectacular moments from the opening ceremony, and prepare you for Day 1 of Olympic Games Paris 2024 competition. \n\n---------------------------------------------------------------------------------------------------------------------------\nhttp://cbcsports.ca is your home for Canadian athletes, fans and the Olympic Games. \n\nSubscribe to CBC Sports: http://bit.ly/CBCSportsSub\n\nWatch live and on demand content on our website:\nhttps://www.cbc.ca/sports?ref=cbcsports\n\nLive content: https://www.cbc.ca/player/sports/live\n\nOR on Gem:\nhttps://gem.cbc.ca/category/shows?filter=sports\n\nCONNECT WITH CBC SPORTS ON SOCIAL\nFacebook: https://www.facebook.com/CBCSports\nInstagram: https://www.instagram.com/cbc.sports \nTwitter: https://twitter.com/cbcsports",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/sW6wIes9VYU/default.jpg",
+            "url": "https://i.ytimg.com/vi/S7_0QuGodtE/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/sW6wIes9VYU/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/S7_0QuGodtE/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/sW6wIes9VYU/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/S7_0QuGodtE/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/S7_0QuGodtE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/S7_0QuGodtE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
-        "channelTitle": "Omar Raja - ESPN",
+        "channelTitle": "CBC Sports",
+        "tags": [
+          "team canada",
+          "cbc sports",
+          "sports",
+          "Canada",
+          "olympics",
+          "paris",
+          "paris 2024",
+          "olympic games paris 2024",
+          "XXXIII",
+          "33",
+          "gymnastics",
+          "athletics",
+          "swimming",
+          "diving",
+          "hurdles",
+          "pentathlon",
+          "triathlon",
+          "decathlon",
+          "shot put",
+          "hammer throw",
+          "weightlifting",
+          "rowing",
+          "breaking",
+          "skateboarding",
+          "bmx",
+          "cycling",
+          "tennis",
+          "golf",
+          "basketball",
+          "volleyball",
+          "beach volleyball",
+          "sailing",
+          "archery",
+          "badminton",
+          "canoe",
+          "track",
+          "field",
+          "paris pulse"
+        ],
+        "categoryId": "17",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-10-11T12:30:25Z"
+        "defaultLanguage": "en-CA",
+        "localized": {
+          "title": "Opening Ceremony recap | Paris Pulse - Day 0 | #paris2024",
+          "description": "Our CBC Sports morning host Dale Manucdoc, and our evening host Meg Roberts bring you the most spectacular moments from the opening ceremony, and prepare you for Day 1 of Olympic Games Paris 2024 competition. \n\n---------------------------------------------------------------------------------------------------------------------------\nhttp://cbcsports.ca is your home for Canadian athletes, fans and the Olympic Games. \n\nSubscribe to CBC Sports: http://bit.ly/CBCSportsSub\n\nWatch live and on demand content on our website:\nhttps://www.cbc.ca/sports?ref=cbcsports\n\nLive content: https://www.cbc.ca/player/sports/live\n\nOR on Gem:\nhttps://gem.cbc.ca/category/shows?filter=sports\n\nCONNECT WITH CBC SPORTS ON SOCIAL\nFacebook: https://www.facebook.com/CBCSports\nInstagram: https://www.instagram.com/cbc.sports \nTwitter: https://twitter.com/cbcsports"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "8DNL1Ymtn7TEidpB2W9tpMfhDbE",
+      "id": "WmqbSd7YjbM",
+      "snippet": {
+        "publishedAt": "2024-07-26T13:30:27Z",
+        "channelId": "UCvt0HYxX34vUvqu66HLXeUw",
+        "title": "Hiding every End Portal on the Lifesteal SMP",
+        "description": "Where I get my music: \n-Epidemic Sound-   https://www.epidemicsound.com/referral/hdky6e/\n\nIt's almost 1am rn. haven't been up this late in a long time. tomorrow I get my sleep on track. anyways. hope u like the video",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WmqbSd7YjbM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WmqbSd7YjbM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WmqbSd7YjbM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WmqbSd7YjbM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WmqbSd7YjbM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "rekrap2",
+        "tags": ["Minecraft"],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Hiding every End Portal on the Lifesteal SMP",
+          "description": "Where I get my music: \n-Epidemic Sound-   https://www.epidemicsound.com/referral/hdky6e/\n\nIt's almost 1am rn. haven't been up this late in a long time. tomorrow I get my sleep on track. anyways. hope u like the video"
+        }
       }
     }
-  ]
+  ],
+  "nextPageToken": "CBkQAA",
+  "pageInfo": {
+    "totalResults": 200,
+    "resultsPerPage": 25
+  }
 }

@@ -2,8 +2,7 @@ import React from 'react';
 import { useParams } from 'react-router-dom';
 import { useQuery } from '@tanstack/react-query';
 import VideoCard from '../components/VideoCard';
-import { search } from '../api/youtube';
-import FakeYoutube from '../api/fakeYoutube';
+import Youtube from '../api/youtube';
 
 export default function Videos() {
   const { keyword } = useParams();
@@ -15,8 +14,7 @@ export default function Videos() {
     queryKey: ['videos', keyword],
 
     queryFn: () => {
-      const youtube = new FakeYoutube();
-
+      const youtube = new Youtube();
       return youtube.search(keyword);
     },
   });
