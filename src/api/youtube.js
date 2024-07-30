@@ -30,7 +30,6 @@ export default class Youtube {
           chart: 'mostPopular',
         },
       })
-      .then((res) => res.data.items)
-      .then((items) => items.map((item) => ({ ...item, id: item.id.videoId })));
+      .then((res) => res.data.items);
   }
 }
