@@ -9,8 +9,8 @@ export default function VideoDetail() {
   } = useLocation();
   const { title, channelId, channelTitle, description } = video.snippet;
   return (
-    <section>
-      <article>
+    <section className='flex flex-col lg:flex-row'>
+      <article className='basis-4/6'>
         <iframe
           id='player'
           type='text/html'
@@ -20,14 +20,16 @@ export default function VideoDetail() {
           frameBorder='0'
           allowFullScreen
         />
-        <div>
-          <h2>{title}</h2>
+        <div className='p-8'>
+          <h2 className='text-2xl font-bold'>{title}</h2>
           <ChannelInfo id={channelId} name={channelTitle} />
-          <pre>{description}</pre>
+          <pre className='whitespace-pre-wrap border-b-2 border-gray-700 pb-3'>
+            {description ? description : 'No description available.'}
+          </pre>
         </div>
       </article>
-      <section>
-        <ChannelPlaylist channelId={channelId} />
+      <section className='basis-2/6'>
+        <ChannelPlaylist />
       </section>
     </section>
   );

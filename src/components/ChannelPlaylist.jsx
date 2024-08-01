@@ -2,19 +2,19 @@ import React from 'react';
 import { useYoutubeApi } from '../context/YoutubeApiContext';
 import { useQuery } from '@tanstack/react-query';
 import VideoCard from './VideoCard';
+import { useParams } from 'react-router-dom';
 
-export default function ChannelPlaylist({ channelId }) {
+export default function ChannelPlaylist() {
   const { youtube } = useYoutubeApi();
+  const { keyword } = useParams();
 
   const {
     isLoading,
     error,
     data: videos,
   } = useQuery({
-    queryKey: ['playlist', channelId],
-    queryFn: () => {
-      return youtube.searchByChannelId(channelId);
-    },
+    queryKey: ['videos', keyword],
+    queryFn: () => youtube.searchByChannelId(keyword),
   });
 
   return (
@@ -24,7 +24,7 @@ export default function ChannelPlaylist({ channelId }) {
       {videos && (
         <ul>
           {videos.map((video) => (
-            <VideoCard key={video.id} video={video} />
+            <VideoCard key={video.id} video={video} type='list' />
           ))}
         </ul>
       )}

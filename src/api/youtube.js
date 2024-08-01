@@ -13,18 +13,19 @@ export default class Youtube {
       .then((res) => res.data.items[0].snippet.thumbnails.default.url);
   }
 
-  async searchByChannelId(channelId) {
+  async searchByChannelId(keyword) {
     return this.apiClient
-      .playlist({
+      .search({
         params: {
           part: 'snippet',
           maxResults: 25,
           type: 'video',
-          order: 'date',
-          channelId,
+          q: keyword,
+          regionCode: 'US',
         },
       })
-      .then((res) => res.data.items);
+      .then((res) => res.data.items)
+      .then((items) => items.map((item) => ({ ...item, id: item.id.videoId })));
   }
 
   async #searchByKeyword(keyword) {

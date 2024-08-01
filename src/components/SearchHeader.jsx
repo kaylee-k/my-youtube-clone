@@ -33,6 +33,9 @@ export default function SearchHeader() {
           <BsSearch />
         </button>
       </form>
+      <p className='flex text-sm whitespace-nowrap items-center'>
+        Created by Kaylee
+      </p>
     </header>
   );
 }
