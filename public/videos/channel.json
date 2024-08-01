@@ -1,0 +1,43 @@
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "76hDoeYOzwpQ302UHF3CanVY04k",
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "rP3zlb3BPlEhl9XHRyKaMmQuHEo",
+      "id": "UCzAa37OHvk6LQTG6M2GcJEA",
+      "snippet": {
+        "title": "123 GO! GOLD",
+        "description": "Tricks, crafts, life hacks, comedy sketches and challenges - here are the most trending ideas to have fun and to make awesome stuff!\n\nThese videos will help you to develop your skills to create something absolutely new, we're so in the mood to entertain you and give you a whole world of a brand new experience and a ton of fun!\n\nLet's make this place brighter right now:)\n\nFor brand partnership enquires: https://www.thesoul-publishing.com/partner\nFor collabs: https://www.thesoul-publishing.com/partner\n",
+        "customUrl": "@123gogold",
+        "publishedAt": "2019-09-17T11:41:46Z",
+        "thumbnails": {
+          "default": {
+            "url": "x",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_kVoztE9BthrOiBozZeHNhJ5EJ7YTLAuW5uqaOln7aspSg=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_kVoztE9BthrOiBozZeHNhJ5EJ7YTLAuW5uqaOln7aspSg=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "123 GO! GOLD",
+          "description": "Tricks, crafts, life hacks, comedy sketches and challenges - here are the most trending ideas to have fun and to make awesome stuff!\n\nThese videos will help you to develop your skills to create something absolutely new, we're so in the mood to entertain you and give you a whole world of a brand new experience and a ton of fun!\n\nLet's make this place brighter right now:)\n\nFor brand partnership enquires: https://www.thesoul-publishing.com/partner\nFor collabs: https://www.thesoul-publishing.com/partner\n"
+        },
+        "country": "US"
+      }
+    }
+  ]
+}

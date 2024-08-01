@@ -1,7 +1,7 @@
 import React from 'react';
 import { useLocation } from 'react-router-dom';
 import ChannelInfo from '../components/ChannelInfo';
-import RelatedVideos from '../components/RelatedVideos';
+import ChannelPlaylist from '../components/ChannelPlaylist';
 
 export default function VideoDetail() {
   const {
@@ -17,7 +17,7 @@ export default function VideoDetail() {
           width='100%'
           height='640'
           src={`http://www.youtube.com/embed/${video.id}`}
-          frameborder='0'
+          frameBorder='0'
           allowFullScreen
         />
         <div>
@@ -27,7 +27,7 @@ export default function VideoDetail() {
         </div>
       </article>
       <section>
-        <RelatedVideos id={video.id} />
+        <ChannelPlaylist channelId={channelId} />
       </section>
     </section>
   );
