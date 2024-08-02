@@ -13,6 +13,7 @@ export default function VideoDetail() {
     <section className='flex flex-col lg:flex-row'>
       <article className='basis-4/6'>
         <iframe
+          className='px-8 mt-1'
           id='player'
           title={title}
           type='text/html'
