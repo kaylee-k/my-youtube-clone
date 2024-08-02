@@ -47,7 +47,7 @@ export default class Youtube {
       .videos({
         params: {
           part: 'snippet',
-          maxResults: 25,
+          maxResults: 28,
           chart: 'mostPopular',
         },
       })
