@@ -1,4 +1,9 @@
 # YouTube Clone Project
+<img width="1229" alt="Screenshot 2024-08-02 at 10 09 56 PM" src="https://github.com/user-attachments/assets/3f9a6da9-f7cb-406f-80d2-869081f6ca95">
+
+<img width="1156" alt="Screenshot 2024-08-02 at 10 11 17 PM" src="https://github.com/user-attachments/assets/4ea11a6b-7daf-4fc2-85ba-0601372e5c03">
+
+## Description
 
 Welcome to the YouTube Clone Project using the YouTube API! This application, built with React, allows you to efficiently search for YouTube videos, view video details, and explore related videos. 
 
