@@ -1,70 +1,51 @@
-# Getting Started with Create React App
+# YouTube Clone Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the YouTube Clone Project using the YouTube API! This application, built with React, allows you to efficiently search for YouTube videos, view video details, and explore related videos. 
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- **Search Videos**: Quickly search for YouTube videos by keywords.
+- **View Video Details**: Watch videos and see detailed information about them.
+- **Related Videos**: Explore videos related to the current video from the same channel.
+- **Responsive Design**: The website is responsive, and the number of videos displayed changes when the window size is adjusted.
 
-### `yarn start`
+## Technologies Used
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **React**: For building the user interface.
+- **Tailwind CSS**: For styling the application.
+- **React Router**: For handling navigation and routing.
+- **React Query**: For data fetching and state management.
+- **YouTube API**: For retrieving video data from YouTube.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Components
 
-### `yarn test`
+### 1. SearchHeader
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+The `SearchHeader` component allows users to search for videos. It includes an input field for entering the search query and a button to submit the search.
 
-### `yarn build`
+### 2. VideoCard
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+The `VideoCard` component represents an individual video in the search results or related videos list. It displays the video thumbnail, title, channel name, and upload date. Clicking on the video navigates to the video details page.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### 3. VideoDetail
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+The `VideoDetail` component displays detailed information about a selected video. It includes an embedded video player, video title, channel information, and video description. It also shows related videos from the same channel on the right side of the video.
 
-### `yarn eject`
+### 4. ChannelInfo
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+The `ChannelInfo` component displays information about the channel that uploaded the video, including the channel's name and profile image.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### 5. ChannelPlaylist
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+The `ChannelPlaylist` component shows a list of related videos from the same channel.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Context
 
-## Learn More
+### YoutubeApiContext
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+The `YoutubeApiContext` provides access to the YouTube API client. This context is used by various components to fetch video data.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Styling
 
-### Code Splitting
+The application uses `Tailwind CSS` for styling. Tailwind CSS allows for easy and efficient styling by applying utility classes directly in the JSX code. The application supports a responsive design, adjusting the number of videos displayed based on the window size.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
